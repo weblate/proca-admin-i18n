@@ -1,18 +1,18 @@
 {
-    "Twitter Account": "Compte Twitter",
-    "My organisation isn't on twitter": "Mon organisation n'est pas sur Twitter",
-    "onboarding": {
-        "welcome": "Bienvenue dans l'espace partenaires de cette campagne coordonnée par {{coordinator}}.",
-        "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
-        "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible."
-    },
-    "createOrg": {
-        "manual": "Commencez à remplir les détails manuellement",
-        "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
-    },
-    "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation",
-    "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}",
-    "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
-    "You are also a member of {{org}}": "Vous êtes également membre de {{org}}",
-    "You are already a partner of {{org}}": "Vous êtes déjà un partenaire de {{org}}"
+  "Twitter Account": "Compte Twitter",
+  "My organisation isn't on twitter": "Mon organisation n'est pas sur Twitter",
+  "onboarding": {
+    "welcome": "Bienvenue dans l'espace partenaires de cette campagne coordonnée par {{coordinator}}.",
+    "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
+    "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible."
+  },
+  "createOrg": {
+    "manual": "Commencez à remplir les détails manuellement",
+    "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
+  },
+  "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation",
+  "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}",
+  "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
+  "You are also a member of {{org}}": "Vous êtes également membre de {{org}}",
+  "You are already a partner of {{org}}": "Vous êtes déjà un partenaire de {{org}}"
 }
