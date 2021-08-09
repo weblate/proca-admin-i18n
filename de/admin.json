@@ -1,1 +1,18 @@
-{}
+{
+    "onboarding": {
+        "welcome": "Willkommen im Bereich der Partner dieser Kampagne, die von {{coordinator}} koordiniert wird.",
+        "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
+        "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können."
+    },
+    "createOrg": {
+        "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
+        "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
+    },
+    "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren",
+    "You are registered for {{campaign}}": "Sie sind registriert für {{campaign}}",
+    "You are one of the coordinators of that campaign": "Sie sind einer der Koordinatoren dieser Kampagne",
+    "You are also a member of {{org}}": "Sie sind auch Mitglied von {{org}}",
+    "You are already a partner of {{org}}": "Sie sind bereits ein Partner von {{org}}",
+    "Twitter Account": "Twitter-Konto",
+    "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter"
+}
