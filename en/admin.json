@@ -1,4 +1,18 @@
 {
   "My organisation isn't on twitter": "My organisation isn't on twitter",
-  "Twitter Account": "Twitter Account"
+  "Twitter Account": "Twitter Account",
+  "You are already a partner of {{org}}": "You are already a partner of {{org}}",
+  "You are also a member of {{org}}": "You are also a member of {{org}}",
+  "You are one of the coordinators of that campaign": "You are one of the coordinators of that campaign",
+  "You are registered for {{campaign}}": "You are registered for {{campaign}}",
+  "You can update your organisation's details":"You can update your organisation's details",
+  "createOrg":{
+    "intro":"The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
+    "manual":"Switch to fill the details manually"
+  },
+  "onboarding": {
+    "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
+    "title": "Are you an organisation or social movement that want to add this campaign on your site?",
+    "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
+  }
 }
