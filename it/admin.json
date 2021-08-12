@@ -1,18 +1,34 @@
 {
-  "onboarding": {
-    "welcome": "Benvenuti nell'area dei partner di questa campagna coordinata da {{coordinator}}",
-    "title": "Sei un'organizzazione o un movimento sociale che vuole aggiungere questa campagna sul tuo sito?",
-    "intro": "Per aumentare il nostro impatto, abbiamo bisogno di un'ampia coalizione e abbiamo cercato di rendere il più semplice possibile farvi aderire."
-  },
-  "createOrg": {
-    "manual": "Passa a riempire i dettagli manualmente",
-    "intro": "Il più veloce è iniziare con l'account twitter della tua organizzazione (se ne hai diversi, scegline uno)"
-  },
-  "You can update your organisation's details": "Puoi aggiornare i dettagli della tua organizzazione",
-  "You are registered for {{campaign}}": "Sei registrato per {{campaign}}",
-  "You are one of the coordinators of that campaign": "Lei è uno dei coordinatori di quella campagna",
-  "You are also a member of {{org}}": "Sei anche membro di {{org}}",
-  "You are already a partner of {{org}}": "Sei già partner di {{org}}",
-  "Twitter Account": "Account Twitter",
-  "My organisation isn't on twitter": "La mia organizzazione non è su twitter"
+    "onboarding": {
+        "welcome": "Benvenuti nell'area dei partner di questa campagna coordinata da {{coordinator}}",
+        "title": "Sei un'organizzazione o un movimento sociale che vuole aggiungere questa campagna sul tuo sito?",
+        "intro": "Per aumentare il nostro impatto, abbiamo bisogno di un'ampia coalizione e abbiamo cercato di rendere il più semplice possibile farvi aderire.",
+        "thanks": "Grazie per aderire a questa campagna",
+        "done": "Riceverete un messaggio di conferma via e-mail. Potete già integrare una versione di prova del <1>widget on your website</1>"
+    },
+    "createOrg": {
+        "manual": "Passa a riempire i dettagli manualmente",
+        "intro": "Il più veloce è iniziare con l'account twitter della tua organizzazione (se ne hai diversi, scegline uno)"
+    },
+    "You can update your organisation's details": "Puoi aggiornare i dettagli della tua organizzazione",
+    "You are registered for {{campaign}}": "Sei registrato per {{campaign}}",
+    "You are one of the coordinators of that campaign": "Lei è uno dei coordinatori di quella campagna",
+    "You are also a member of {{org}}": "Sei anche membro di {{org}}",
+    "You are already a partner of {{org}}": "Sei già partner di {{org}}",
+    "Twitter Account": "Account Twitter",
+    "My organisation isn't on twitter": "La mia organizzazione non è su twitter",
+    "step": {
+        "join_campaign": "Domanda d'adesione",
+        "done": "Fatto",
+        "create_org": "Create la vostra organizzazione",
+        "configure_org": "La vostra organizzazione"
+    },
+    "join": {
+        "requestHelper": "per aiutarci a pianificare e preventivare questa campagna",
+        "request": "Pianificate mailing ai vostri sostenitori e alle vostre sostenitrici chiedendo loro di agire, o promuoverete la campagna solo sui social media?",
+        "goalHelper": "Questa stima sarà vista solo dal coordinatore... e sappiamo che è difficile da stimare",
+        "goal": "Quante persone passeranno all'azione attraverso il vostro sito web?"
+    },
+    "Used to fill the details of your organisation": "Utilizzato per riempire i dettagli della tua organizzazione",
+    "Switch to fill the details manually": "Passa a riempire i dettagli manualmente"
 }
