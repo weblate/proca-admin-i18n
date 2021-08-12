@@ -2,11 +2,11 @@
     "Twitter Account": "Compte Twitter",
     "My organisation isn't on twitter": "Mon organisation n'est pas sur Twitter",
     "onboarding": {
-        "welcome": "Bienvenue dans l'espace partenaires de cette campagne coordonnée par {{coordinator}}.",
+        "welcome": "Bienvenue dans l'espace partenaires de cette campagne coordonnée par {{coordinator}}",
         "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
         "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible.",
         "thanks": "Merci de vous joindre à cette campagne",
-        "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez déjà intégrer une version de test du <1>widget sur votre site web</1>."
+        "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez déjà intégrer une version de test du <1>widget sur votre site web</1>"
     },
     "createOrg": {
         "manual": "Commencez à remplir les détails manuellement",
@@ -14,7 +14,7 @@
     },
     "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation",
     "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}",
-    "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
+    "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne",
     "You are also a member of {{org}}": "Vous êtes également membre de {{org}}",
     "You are already a partner of {{org}}": "Vous êtes déjà un partenaire de {{org}}",
     "step": {
