@@ -1,34 +1,34 @@
 {
-  "My organisation isn't on twitter": "My organisation isn't on twitter",
-  "Switch to fill the details manually": "Switch to fill the details manually",
-  "Twitter Account": "Twitter Account",
-  "Used to fill the details of your organisation": "Used to fill the details of your organisation",
-  "You are already a partner of {{org}}": "You are already a partner of {{org}}",
-  "You are also a member of {{org}}": "You are also a member of {{org}}",
-  "You are one of the coordinators of that campaign": "You are one of the coordinators of that campaign",
-  "You are registered for {{campaign}}": "You are registered for {{campaign}}",
-  "You can update your organisation's details": "You can update your organisation's details",
-  "createOrg": {
-    "intro": "The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
-    "manual": "Switch to fill the details manually"
-  },
-  "join": {
-    "goal": "How many people will take action via your website?",
-    "goalHelper": "This guess will only be seen by the coordinator... and we know it's hard to estimate",
-    "request": "Do you plan dedicated mailings to your supporters asking them to take action, or will you only promote the campaign on social media?",
-    "requestHelper": "to help us plan and budget this campaign"
-  },
-  "onboarding": {
-    "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
-    "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
-    "thanks": "Thank you for joining this campaign",
-    "title": "Are you an organisation or social movement that want to add this campaign on your site?",
-    "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
-  },
-  "step": {
-    "configure_org": "Your organisation",
-    "create_org": "Create your organisation",
-    "done": "Done",
-    "join_campaign": "Request to join"
-  }
+    "My organisation isn't on twitter": "My organisation isn't on twitter",
+    "Switch to fill the details manually": "Switch to fill the details manually",
+    "Twitter Account": "Twitter Account",
+    "Used to fill the details of your organisation": "Used to fill the details of your organisation",
+    "You are already a partner of {{org}}": "You are already a partner of {{org}}",
+    "You are also a member of {{org}}": "You are also a member of {{org}}",
+    "You are one of the coordinators of that campaign": "You are one of the coordinators of that campaign",
+    "You are registered for {{campaign}}": "You are registered for {{campaign}}",
+    "You can update your organisation's details": "You can update your organisation's details",
+    "createOrg": {
+        "intro": "The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
+        "manual": "Switch to fill the details manually"
+    },
+    "join": {
+        "goal": "How many people will take action via your website?",
+        "goalHelper": "This guess will only be seen by the coordinator… and we know it's hard to estimate",
+        "request": "Do you plan dedicated mailings to your supporters asking them to take action, or will you only promote the campaign on social media?",
+        "requestHelper": "to help us plan and budget this campaign"
+    },
+    "onboarding": {
+        "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
+        "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
+        "thanks": "Thank you for joining this campaign",
+        "title": "Are you an organisation or social movement that want to add this campaign on your site?",
+        "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
+    },
+    "step": {
+        "configure_org": "Your organisation",
+        "create_org": "Create your organisation",
+        "done": "Done",
+        "join_campaign": "Request to join"
+    }
 }
