@@ -26,7 +26,7 @@
     "join": {
         "requestHelper": "pour nous aider à planifier et à budgeter cette campagne",
         "request": "Prévoyez-vous des mailings dédiés à vos supporters leur demandant d'agir, ou allez-vous seulement promouvoir la campagne sur les médias sociaux ?",
-        "goalHelper": "Cette estimation ne sera vue que par le coordinateur... et nous savons qu'elle est difficile à estimer.",
+        "goalHelper": "Cette estimation ne sera vue que par le coordinateur.",
         "goal": "Combien de personnes passeront à l'action via votre site web ?"
     },
     "Used to fill the details of your organisation": "Utilisé pour remplir les détails de votre organisation",
