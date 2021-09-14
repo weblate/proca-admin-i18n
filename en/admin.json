@@ -28,6 +28,8 @@
     "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
   },
   "step": {
+    "login": "Login",
+    "verify": "Verify",
     "configure_org": "Your organisation",
     "create_org": "Create your organisation",
     "done": "Done",
