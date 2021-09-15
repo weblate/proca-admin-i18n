@@ -1,34 +1,34 @@
 {
-    "onboarding": {
-        "welcome": "Willkommen im Bereich der Partner dieser Kampagne, die von {{coordinator}} koordiniert wird",
-        "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
-        "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können.",
-        "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
-        "done": "Sie erhalten eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>"
-    },
-    "createOrg": {
-        "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
-        "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
-    },
-    "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren",
-    "You are registered for {{campaign}}": "Sie sind registriert für {{campaign}}",
-    "You are one of the coordinators of that campaign": "Sie sind einer der Koordinatoren dieser Kampagne",
-    "You are also a member of {{org}}": "Sie sind auch Mitglied von {{org}}",
-    "You are already a partner of {{org}}": "Sie sind bereits ein Partner von {{org}}",
-    "Twitter Account": "Twitter-Konto",
-    "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter",
-    "step": {
-        "join_campaign": "Antrag auf Beitritt",
-        "done": "Fertig",
-        "create_org": "Erstellen Sie Ihre Organisation",
-        "configure_org": "Ihre Organisation"
-    },
-    "join": {
-        "requestHelper": "um uns bei der Planung und Budgetierung dieser Kampagne zu helfen",
-        "request": "Planen Sie spezielle Mailings an Ihre Unterstützer, um sie zum Handeln aufzufordern, oder werden Sie die Kampagne nur in den sozialen Medien bewerben?",
-        "goalHelper": "Diese Schätzung wird nur vom Koordinator gesehen... und wir wissen, dass es schwer zu schätzen ist",
-        "goal": "Wie viele Menschen werden über Ihre Website aktiv?"
-    },
-    "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
-    "Switch to fill the details manually": "Wechseln Sie zum manuellen Ausfüllen der Details"
+  "onboarding": {
+    "welcome": "Willkommen im Bereich der Partner dieser Kampagne, die von {{coordinator}} koordiniert wird",
+    "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
+    "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können.",
+    "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
+    "done": "Sie erhalten eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>"
+  },
+  "createOrg": {
+    "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
+    "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
+  },
+  "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren",
+  "You are registered for {{campaign}}": "Sie sind registriert für {{campaign}}",
+  "You are one of the coordinators of that campaign": "Sie sind einer der Koordinatoren dieser Kampagne",
+  "You are also a member of {{org}}": "Sie sind auch Mitglied von {{org}}",
+  "You are already a partner of {{org}}": "Sie sind bereits ein Partner von {{org}}",
+  "Twitter Account": "Twitter-Konto",
+  "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter",
+  "step": {
+    "join_campaign": "Antrag auf Beitritt",
+    "done": "Fertig",
+    "create_org": "Erstellen Sie Ihre Organisation",
+    "configure_org": "Ihre Organisation"
+  },
+  "join": {
+    "requestHelper": "um uns bei der Planung und Budgetierung dieser Kampagne zu helfen",
+    "request": "Planen Sie spezielle Mailings an Ihre Unterstützer, um sie zum Handeln aufzufordern, oder werden Sie die Kampagne nur in den sozialen Medien bewerben?",
+    "goalHelper": "Diese Schätzung wird nur vom Koordinator gesehen... und wir wissen, dass es schwer zu schätzen ist",
+    "goal": "Wie viele Menschen werden über Ihre Website aktiv?"
+  },
+  "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
+  "Switch to fill the details manually": "Wechseln Sie zum manuellen Ausfüllen der Details"
 }

@@ -19,7 +19,7 @@
     "requestHelper": "to help us plan and budget this campaign"
   },
   "onboarding": {
-    "login": "Create your account (or login if you have one already).  The fastest is to use your google account <1>Not Mandatory</1>",
+    "login": "Create your account (or login if you have one already).<br /><i>The fastest is to use your google account, but it isn't required</i>",
     "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
     "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
     "login": "To begin, you need to register or log in, if you have already registered.",
