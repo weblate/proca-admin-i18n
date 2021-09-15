@@ -19,6 +19,7 @@
     "requestHelper": "to help us plan and budget this campaign"
   },
   "onboarding": {
+    "login": "Create your account (or login if you have one already).  The fastest is to use your google account <1>Not Mandatory</1>",
     "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
     "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
     "thanks": "Thank you for joining this campaign",
@@ -26,6 +27,8 @@
     "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
   },
   "step": {
+    "login": "Your account",
+    "verify": "Verify your email",
     "configure_org": "Your organisation",
     "create_org": "Create your organisation",
     "done": "Done",
