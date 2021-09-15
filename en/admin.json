@@ -14,7 +14,7 @@
   },
   "join": {
     "goal": "How many people will take action via your website?",
-    "goalHelper": "This guess will only be seen by the coordinator... and we know it's hard to estimate",
+    "goalHelper": "This guess will only be seen by the coordinator… and we know it's hard to estimate",
     "request": "Do you plan dedicated mailings to your supporters asking them to take action, or will you only promote the campaign on social media?",
     "requestHelper": "to help us plan and budget this campaign"
   },
@@ -22,8 +22,10 @@
     "login": "Create your account (or login if you have one already).  The fastest is to use your google account <1>Not Mandatory</1>",
     "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
     "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
+    "login": "To begin, you need to register or log in, if you have already registered.",
     "thanks": "Thank you for joining this campaign",
     "title": "Are you an organisation or social movement that want to add this campaign on your site?",
+    "verify": "Your email  is not yet verified. Please check your email and click on the confirmation link to continue.",
     "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
   },
   "step": {

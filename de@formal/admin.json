@@ -1,1 +1,34 @@
-{}
+{
+    "step": {
+        "join_campaign": "Beitrittsanfrage",
+        "done": "Fertig",
+        "create_org": "Erstellen Sie Ihre Organisation",
+        "configure_org": "Ihre Organisation"
+    },
+    "onboarding": {
+        "welcome": "Willkommen im Partnerbereich für diese Kampagne, die von {{coordinator}} koordiniert wird",
+        "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
+        "thanks": "Danke, dass Sie sich dieser Kampagne angeschlossen haben",
+        "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschliessen können.",
+        "done": "Sie erhalten eine Bestätigungsmail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>"
+    },
+    "join": {
+        "requestHelper": "um uns bei der Planung und Budgetierung dieser Kampagne zu helfen",
+        "request": "Planen Sie spezielle Mailings an Ihre Unterstützer:innen, um sie zum Handeln aufzufordern, oder werden Sie die Kampagne nur in den sozialen Medien bewerben?",
+        "goalHelper": "Diese Schätzung wird nur von den Koordinator:innen gesehen... und wir wissen, dass es schwer einzuschätzen ist",
+        "goal": "Wieviele Menschen werden über Ihre Seite aktiv werden?"
+    },
+    "createOrg": {
+        "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
+        "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
+    },
+    "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren",
+    "You are registered for {{campaign}}": "Sie sind für die Kampagne {{campaign}} registriert",
+    "You are one of the coordinators of that campaign": "Sie sind einer der Koordinator:innen dieser Kampagne",
+    "You are also a member of {{org}}": "Sie sind auch ein Partner von {{org}}",
+    "You are already a partner of {{org}}": "Sie sind bereits ein Partner von {{org}}",
+    "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
+    "Twitter Account": "Twitter Account",
+    "Switch to fill the details manually": "Wechseln Sie um die Details manuell auszufüllen",
+    "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter"
+}
