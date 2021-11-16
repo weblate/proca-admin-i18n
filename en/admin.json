@@ -3,42 +3,56 @@
   "Switch to fill the details manually": "Switch to fill the details manually",
   "Twitter Account": "Twitter Account",
   "Used to fill the details of your organisation": "Used to fill the details of your organisation",
-  "View your widget for {{org}}": "View your widget for {{org}}",
   "You are already a partner of {{org}}": "You are already a partner of {{org}}",
   "You are also a member of {{org}}": "You are also a member of {{org}}",
   "You are one of the coordinators of that campaign": "You are one of the coordinators of that campaign",
   "You are registered for {{campaign}}": "You are registered for {{campaign}}",
-  "You can register an new organisation to join the coalition": "You can register an new organisation to join the coalition",
   "You can update your organisation's details": "You can update your organisation's details",
   "createOrg": {
     "intro": "The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
-    "manual": "Switch to fill the details manually",
-    "related": "From which part of the family are you?",
-    "relatedHelper": "We welcome all organisations!"
+    "manual": "Switch to fill the details manually"
   },
   "join": {
-    "embargo": "I acknowledge that the campaign materials are strictly embargoed until further notice. I agree to NOT SHARING these materials with anyone outside of my organisation",
     "goal": "How many people will take action via your website?",
     "goalHelper": "This guess will only be seen by the coordinator… and we know it's hard to estimate",
-    "mailingList": "By submitting this form, I agree to be added to the {{campaign}} coordination mailing list. I can unsubscribe at any time",
     "request": "Do you plan dedicated mailings to your supporters asking them to take action, or will you only promote the campaign on social media?",
     "requestHelper": "to help us plan and budget this campaign"
   },
   "onboarding": {
+    "login": "Create your account (or login if you have one already).<br /><i>The fastest is to use your google account, but it isn't required</i>",
     "done": "You will receive a confirmation message by email. You can already embed a test version of the <1>widget on your website</1>",
     "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
     "login": "To begin, you need to register or log in, if you have already registered.",
     "thanks": "Thank you for joining this campaign",
     "title": "Are you an organisation or social movement that want to add this campaign on your site?",
     "verify": "Your email  is not yet verified. Please check your email and click on the confirmation link to continue.",
-    "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
+    "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}",
+    "embargo": "Embargo",
+    "embargoHelper": "I acknowledge that the campaign materials are strictly embargoed until further notice. I agree to NOT SHARING these materials with anyone outside of my organisation.",
+    "mailling": "Mailing list",
+    "maillingHelper": "By submitting this form, I agree to be added to the {{campaign}} mailing list. I can unsubscribe at any time.",
+    "aboutSection": {
+      "sectionTitle": "About you",
+      "organisation": "organisation",
+      "organisationHelper": "From which part of the family are you? We welcome all organisations!",
+      "country": "Your Country",
+      "name": "Your Name",
+      "jobTitle": "Job Title",
+      "emailAddress": "Your email address",
+      "phoneNumber": "Your phone number (incl. country code)"
+    },
+    "technicalInfoSection": {
+      "sectionTitle": "Technical info",
+      "newsletter": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
+      "newsletterHelper": "I don't have a newsletter. I am sure I don't want a newsletter tick-box which collects email addresses that we can use afterwards."
+    }
   },
   "step": {
+    "login": "Your account",
+    "verify": "Verify your email",
     "configure_org": "Your organisation",
     "create_org": "Create your organisation",
     "done": "Take your widget",
-    "join_campaign": "Request to join",
-    "login": "Your account",
-    "verify": "Verify your email"
+    "join_campaign": "Request to join"
   }
 }
