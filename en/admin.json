@@ -31,20 +31,21 @@
     "embargoHelper": "I acknowledge that the campaign materials are strictly embargoed until further notice. I agree to NOT SHARING these materials with anyone outside of my organisation.",
     "mailling": "Mailing list",
     "maillingHelper": "By submitting this form, I agree to be added to the {{campaign}} mailing list. I can unsubscribe at any time.",
-    "aboutSection": {
-      "sectionTitle": "About you",
-      "organisation": "organisation",
+    "organisation": {
+      "sectionTitle": "Organisation",
       "organisationHelper": "From which part of the family are you? We welcome all organisations!",
+      "newsletter": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
+      "newsletterHelper": "I don't have a newsletter. I am sure I don't want a newsletter tick-box which collects email addresses that we can use afterwards.",
+      "iframeLanguage": "In what language do you need your iframe(s)",
+      "remarks": "Any remarks about the tool you want to tell us?"
+    },
+    "user": {
+      "sectionTitle": "About you",
       "country": "Your Country",
       "name": "Your Name",
       "jobTitle": "Job Title",
       "emailAddress": "Your email address",
       "phoneNumber": "Your phone number (incl. country code)"
-    },
-    "technicalInfoSection": {
-      "sectionTitle": "Technical info",
-      "newsletter": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
-      "newsletterHelper": "I don't have a newsletter. I am sure I don't want a newsletter tick-box which collects email addresses that we can use afterwards."
     }
   },
   "step": {
