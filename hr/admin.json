@@ -1,1 +1,38 @@
-{}
+{
+    "My organisation isn't on twitter": "Moja organizacija nije na Twitteru",
+    "Switch to fill the details manually": "Prebaci na ručno ispunjavanje detalja",
+    "Twitter Account": "Twitter račun",
+    "Used to fill the details of your organisation": "Koristi se za popunjavanje podataka tvoje organizacije",
+    "You are already a partner of {{org}}": "Već jesi partner tvrtke {{org}}",
+    "You are also a member of {{org}}": "Također si član tvrtke {{org}}",
+    "You are one of the coordinators of that campaign": "Ti si jedan koordinator/jedna kordinatorica te kampanje",
+    "You are registered for {{campaign}}": "Registriran/a si za {{campaign}}",
+    "You can update your organisation's details": "Podatke tvoje organizacije možeš aktualizirati",
+    "createOrg": {
+        "manual": "Prebaci na ručno ispunjavanje detalja",
+        "intro": "Najbrže je započeti s twitter računom tvoje organizacije (ako ih imaš nekoliko, odaberi jedan)"
+    },
+    "join": {
+        "requestHelper": "kako bi nam pomogao/la planirati i budžetirati ovu kampanju",
+        "goal": "Koliko će ljudi poduzeti mjere putem tvoje web-stranice?",
+        "goalHelper": "Ovo nagađanje vidjet će samo koordinator … a znamo da je teško procijeniti",
+        "request": "Planiraš li slati namjenske poruke svojim pristašama tražeći od njih da nešto poduzmu ili ćeš kampanju promovirati samo na društvenim mrežama?"
+    },
+    "onboarding": {
+        "login": "Najprije se moraš registrirati ili prijaviti ako si se već registrirao/la.",
+        "done": "Poruku potvrde primit ćeš putem e-maila. Testnu verziju <1>programčića već možeš ugraditi u svoju web-stranicu</1>",
+        "intro": "Da bismo povećali naš utjecaj, potrebna nam je široka koalicija i pokušali smo ti omogućiti najjednostavniji način za pridruživanje.",
+        "thanks": "Hvala ti što si se pridružio/la ovoj kampanji",
+        "title": "Jeste li organizacija ili društveni pokret koji želi dodati ovu kampanju na svoju web-stranicu?",
+        "verify": "Tvoja e-mail adresa još nije potvrđena. Za nastavak provjeri svoju e-poštu i pritisni poveznicu za potvrdu.",
+        "welcome": "Dobro došao, dobro došla u područje partnera za ovu kampanju koju koordinira {{coordinator}}"
+    },
+    "step": {
+        "login": "Tvoj račun",
+        "verify": "Potvrdi svoju e-mail adresu",
+        "configure_org": "Tvoja organizacija",
+        "create_org": "Stvori svoju organizaciju",
+        "done": "Preuzmi svoj programčić",
+        "join_campaign": "Zatraži pridruživanje"
+    }
+}
