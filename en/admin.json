@@ -32,6 +32,7 @@
     "mailling": "Mailing list",
     "maillingHelper": "By submitting this form, I agree to be added to the {{campaign}} mailing list. I can unsubscribe at any time.",
     "organisation": {
+      "network": "From which part of the family are you? We welcome all organisations! *",
       "sectionTitle": "Organisation",
       "organisationHelper": "From which part of the family are you? We welcome all organisations!",
       "newsletter": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
