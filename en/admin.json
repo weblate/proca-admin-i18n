@@ -37,8 +37,6 @@
       "organisationHelper": "From which part of the family are you? We welcome all organisations!",
       "newsletter": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
       "newsletterHelper": "I don't have a newsletter. I am sure I don't want a newsletter tick-box which collects email addresses that we can use afterwards.",
-      "iframeLanguage": "In what language do you need your iframe(s)",
-      "iframe": "Do you know how to work with an iFrame on your website?",
       "remarks": "Any remarks about the tool you want to tell us?"
     },
     "user": {
