@@ -4,7 +4,10 @@
     "title": "Sei un'organizzazione o un movimento sociale che vuole aggiungere questa campagna sul tuo sito?",
     "intro": "Per aumentare il nostro impatto, abbiamo bisogno di un'ampia coalizione e abbiamo cercato di rendere il più semplice possibile farvi aderire.",
     "thanks": "Grazie per aderire a questa campagna",
-    "done": "Riceverete un messaggio di conferma via e-mail. Potete già integrare una versione di prova del <1>widget on your website</1>"
+    "done": "Riceverete un messaggio di conferma via e-mail. Potete già integrare una versione di prova del <1>widget on your website</1>",
+    "warning":{
+      "is_partner": "Sei già partner di {{org}}"
+    }
   },
   "createOrg": {
     "manual": "Passa a riempire i dettagli manualmente",
@@ -14,7 +17,6 @@
   "You are registered for {{campaign}}": "Sei registrato per {{campaign}}",
   "You are one of the coordinators of that campaign": "Lei è uno dei coordinatori di quella campagna",
   "You are also a member of {{org}}": "Sei anche membro di {{org}}",
-  "You are already a partner of {{org}}": "Sei già partner di {{org}}",
   "Twitter Account": "Account Twitter",
   "My organisation isn't on twitter": "La mia organizzazione non è su twitter",
   "step": {

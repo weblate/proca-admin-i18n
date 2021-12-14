@@ -3,7 +3,6 @@
     "Switch to fill the details manually": "Prebaci na ručno ispunjavanje detalja",
     "Twitter Account": "Twitter račun",
     "Used to fill the details of your organisation": "Koristi se za popunjavanje podataka tvoje organizacije",
-    "You are already a partner of {{org}}": "Već jesi partner tvrtke {{org}}",
     "You are also a member of {{org}}": "Također si član tvrtke {{org}}",
     "You are one of the coordinators of that campaign": "Ti si jedan koordinator/jedna kordinatorica te kampanje",
     "You are registered for {{campaign}}": "Registriran/a si za {{campaign}}",
@@ -25,7 +24,10 @@
         "thanks": "Hvala ti što si se pridružio/la ovoj kampanji",
         "title": "Jeste li organizacija ili društveni pokret koji želi dodati ovu kampanju na svoju web-stranicu?",
         "verify": "Tvoja e-mail adresa još nije potvrđena. Za nastavak provjeri svoju e-poštu i pritisni poveznicu za potvrdu.",
-        "welcome": "Dobro došao, dobro došla u područje partnera za ovu kampanju koju koordinira {{coordinator}}"
+        "welcome": "Dobro došao, dobro došla u područje partnera za ovu kampanju koju koordinira {{coordinator}}",
+        "warning":{
+            "is_partner": "Već jesi partner tvrtke {{org}}"
+        }
     },
     "step": {
         "login": "Tvoj račun",

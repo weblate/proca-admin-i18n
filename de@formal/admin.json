@@ -10,7 +10,10 @@
     "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
     "thanks": "Danke, dass Sie sich dieser Kampagne angeschlossen haben",
     "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschliessen können.",
-    "done": "Sie erhalten eine Bestätigungsmail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>"
+    "done": "Sie erhalten eine Bestätigungsmail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>",
+    "warning":{
+      "is_partner": "Sie sind bereits ein Partner von {{org}}",
+    }
   },
   "join": {
     "requestHelper": "um uns bei der Planung und Budgetierung dieser Kampagne zu helfen",
@@ -26,7 +29,6 @@
   "You are registered for {{campaign}}": "Sie sind für die Kampagne {{campaign}} registriert",
   "You are one of the coordinators of that campaign": "Sie sind einer der Koordinator:innen dieser Kampagne",
   "You are also a member of {{org}}": "Sie sind auch ein Partner von {{org}}",
-  "You are already a partner of {{org}}": "Sie sind bereits ein Partner von {{org}}",
   "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
   "Twitter Account": "Twitter Account",
   "Switch to fill the details manually": "Wechseln Sie um die Details manuell auszufüllen",
