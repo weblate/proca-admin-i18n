@@ -51,7 +51,7 @@
       "phoneNumber": "Your phone number (incl. country code)"
     },
     "warning": {
-      "is_partner": "👋 Hey stop! You are already a partner in this campaign! It does not make sense for you to join again!",
+      "is_partner": "👋 Hey stop! You are already a partner in this campaign! It does not make sense for you to join again!"
     }
   },
   "step": {

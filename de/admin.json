@@ -6,7 +6,7 @@
     "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
     "done": "Sie erhalten eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>",
     "warning": {
-      "is_partner": "Sie sind bereits ein Partner von {{org}}",
+      "is_partner": "Sie sind bereits ein Partner von {{org}}"
     }
   },
   "createOrg": {
