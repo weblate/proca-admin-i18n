@@ -3,7 +3,7 @@
   "Switch to fill the details manually": "Switch to fill the details manually",
   "Twitter Account": "Twitter Account",
   "Used to fill the details of your organisation": "Used to fill the details of your organisation",
-  "You are also a member of {{org}}": "You are also a member of {{org}}",
+  "You are also a member of {{org}}": "👋 Hey stop! You are the staffer of {{org}}, who runs this campaign! You cannot also join it as partner!",
   "You are one of the coordinators of that campaign": "You are one of the coordinators of that campaign",
   "You are registered for {{campaign}}": "You are registered for {{campaign}}",
   "You can update your organisation's details": "You can update your organisation's details",
