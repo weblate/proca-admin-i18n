@@ -15,7 +15,7 @@
     "goal": "How many people do you expect will take action via your website?",
     "goalHelper": "This guess will only be seen by the coordinator… and we know it's hard to estimate",
     "request": "Do you plan dedicated mailing to your supporters? Are you also planning social media activities, including paid advertising",
-    "requestHelper": "to help us plan and budget this campaign"
+    "requestHelper": "to help us plan this campaign"
   },
   "onboarding": {
     "login": "Create your account (or login if you have one already).<br /><i>The fastest is to use your google account, but it isn't required</i>",
@@ -31,8 +31,9 @@
     "mailling": "Mailing list",
     "maillingHelper": "By submitting this form, I agree to be added to the {{campaign}} mailing list. I can unsubscribe at any time.",
     "organisation": {
-      "network": "My organisation is part of...",
+      "network": "My organisation is part of umbrella organisation...",
       "networkHelper": "We welcome all organisations!",
+      "networkOther": "Other or no network",
       "sectionTitle": "Organisation",
       "organisationHelper": "From which part of the family are you? We welcome all organisations!",
       "collectsEmail": "You do not have a newsletter and don't want to collect email addresses? (You will be able to hide this feature yourself on your website) Tick this box:",
