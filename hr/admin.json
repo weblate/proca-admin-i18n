@@ -9,13 +9,17 @@
     "You can update your organisation's details": "Podatke tvoje organizacije možeš aktualizirati",
     "createOrg": {
         "manual": "Prebaci na ručno ispunjavanje detalja",
-        "intro": "Najbrže je započeti s twitter računom tvoje organizacije (ako ih imaš nekoliko, odaberi jedan)"
+        "intro": "Najbrže je započeti s twitter računom tvoje organizacije (ako ih imaš nekoliko, odaberi jedan)",
+        "related": "Iz kojeg si dijela obitelji?",
+        "relatedHelper": "Pozdravljamo sve organizacije!"
     },
     "join": {
         "requestHelper": "kako bi nam pomogao/la planirati i budžetirati ovu kampanju",
         "goal": "Koliko će ljudi poduzeti mjere putem tvoje web-stranice?",
         "goalHelper": "Ovo nagađanje vidjet će samo koordinator … a znamo da je teško procijeniti",
-        "request": "Planiraš li slati namjenske poruke svojim pristašama tražeći od njih da nešto poduzmu ili ćeš kampanju promovirati samo na društvenim mrežama?"
+        "request": "Planiraš li slati namjenske poruke svojim pristašama tražeći od njih da nešto poduzmu ili ćeš kampanju promovirati samo na društvenim mrežama?",
+        "embargo": "Potvrđujem da su materijali kampanje do daljnjega pod strogim embargom. Slažem se s time da NE DIJELIM ove materijale s bilo kim izvan moje organizacije",
+        "mailingList": "Slanjem ovog obrasca pristajem na dodavanje moje adrese u koordinacijsku mailing listu kampanje {{campaign}}. Mogu se odjaviti u bilo kojem trenutku"
     },
     "onboarding": {
         "login": "Najprije se moraš registrirati ili prijaviti ako si se već registrirao/la.",
@@ -36,5 +40,7 @@
         "create_org": "Stvori svoju organizaciju",
         "done": "Preuzmi svoj programčić",
         "join_campaign": "Zatraži pridruživanje"
-    }
+    },
+    "View your widget for {{org}}": "Pogledaj svoj widget za {{org}}",
+    "You can register an new organisation to join the coalition": "Možeš registrirati novu organizaciju za pridruživanje koaliciji"
 }
