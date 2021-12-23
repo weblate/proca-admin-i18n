@@ -3,7 +3,7 @@
     "Switch to fill the details manually": "Prebaci na ručno ispunjavanje detalja",
     "Twitter Account": "Twitter račun",
     "Used to fill the details of your organisation": "Koristi se za popunjavanje podataka tvoje organizacije",
-    "You are also a member of {{org}}": "Također si član tvrtke {{org}}",
+    "You are also a member of {{org}}": "👋 Hej, stani! Ti si zaposlenik organizacije {{org}}, koji vodi ovu kampanju! Ne može joj se pridružiti i kao partner!",
     "You are one of the coordinators of that campaign": "Ti si jedan koordinator/jedna kordinatorica te kampanje",
     "You are registered for {{campaign}}": "Registriran/a si za {{campaign}}",
     "You can update your organisation's details": "Podatke tvoje organizacije možeš aktualizirati",
@@ -14,10 +14,10 @@
         "relatedHelper": "Pozdravljamo sve organizacije!"
     },
     "join": {
-        "requestHelper": "kako bi nam pomogao/la planirati i budžetirati ovu kampanju",
-        "goal": "Koliko će ljudi poduzeti mjere putem tvoje web-stranice?",
+        "requestHelper": "kako bi nam pomogao/la planirati ovu kampanju",
+        "goal": "Koliko ljudi očekuješ da će poduzeti radnje putem tvoje web-stranice?",
         "goalHelper": "Ovo nagađanje vidjet će samo koordinator … a znamo da je teško procijeniti",
-        "request": "Planiraš li slati namjenske poruke svojim pristašama tražeći od njih da nešto poduzmu ili ćeš kampanju promovirati samo na društvenim mrežama?",
+        "request": "Planiraš li slati namjenske poruke svojim pristašama? Planiraš li i aktivnosti na društvenim mrežama, uključujući plaćene oglase",
         "embargo": "Potvrđujem da su materijali kampanje do daljnjega pod strogim embargom. Slažem se s time da NE DIJELIM ove materijale s bilo kim izvan moje organizacije",
         "mailingList": "Slanjem ovog obrasca pristajem na dodavanje moje adrese u koordinacijsku mailing listu kampanje {{campaign}}. Mogu se odjaviti u bilo kojem trenutku"
     },
@@ -29,9 +29,33 @@
         "title": "Jeste li organizacija ili društveni pokret koji želi dodati ovu kampanju na svoju web-stranicu?",
         "verify": "Tvoja e-mail adresa još nije potvrđena. Za nastavak provjeri svoju e-poštu i pritisni poveznicu za potvrdu.",
         "welcome": "Dobro došao, dobro došla u područje partnera za ovu kampanju koju koordinira {{coordinator}}",
-        "warning":{
-            "is_partner": "Već jesi partner tvrtke {{org}}"
-        }
+        "warning": {
+            "is_partner": "👋 Hej stani! Već jesi partner u ovoj kampanji! Nema smisla da joj se ponovo pridružiš!"
+        },
+        "embargo": "Embargo",
+        "mailling": "Mailing lista",
+        "maillingHelper": "Slanjem ovog obrasca pristajem na dodavanje moje adrese u mailing listu kampanje {{campaign}}. Mogu se odjaviti u bilo kojem trenutku.",
+        "organisation": {
+            "network": "Moja organizacija je pod pokroviteljstvom organizacije …",
+            "organisationHelper": "Iz kojeg si dijela obitelji? Pozdravljamo sve organizacije!",
+            "collectsEmailHelper": "Nemam bilten. Siguran sam da ne želim potvrdni okvir biltena koji prikuplja e-mail adrese koje nakon toga možemo koristiti.",
+            "remarks": "Želiš li nam javiti bilo koje komentare o alatu?",
+            "crm": "Koji softver za upravljanje odnosa s klijentima (CRM) koristiš?",
+            "doubleOptIn": "Moji pristaše se moraju dvaput prijaviti za primanje biltena",
+            "networkHelper": "Pozdravljamo sve organizacije!",
+            "collectsEmail": "Nemaš bilten i ne želiš prikupljati e-mail adrese? (Ovu ćeš značajku moći sakriti na svojoj web-stranici). Označi ovaj okvir:",
+            "sectionTitle": "Organizacija"
+        },
+        "user": {
+            "sectionTitle": "Kontakt osoba za ovu kampanju",
+            "name": "Tvoje ime",
+            "jobTitle": "Naziv radnog mjesta",
+            "emailAddress": "Tvoja e-mail adresa",
+            "socialAccount": "Tvoje Twitter/Facebook/Instagram ili URL adresa",
+            "phoneNumber": "Tvoj telefonski broj (uključujući pozivni broj zemlje)",
+            "country": "Tvoja zemlja"
+        },
+        "embargoHelper": "Potvrđujem da su materijali kampanje pod strogim embargom do daljnjega. Slažem se da NEĆU DIJELITI ove materijale s bilo kim izvan moje organizacije."
     },
     "step": {
         "login": "Tvoj račun",
