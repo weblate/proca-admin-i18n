@@ -5,7 +5,7 @@
     "intro": "Per aumentare il nostro impatto, abbiamo bisogno di un'ampia coalizione e abbiamo cercato di rendere il più semplice possibile farvi aderire.",
     "thanks": "Grazie per aderire a questa campagna",
     "done": "Riceverete un messaggio di conferma via e-mail. Potete già integrare una versione di prova del <1>widget on your website</1>",
-    "warning":{
+    "warning": {
       "is_partner": "Sei già partner di {{org}}"
     }
   },

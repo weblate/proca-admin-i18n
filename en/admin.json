@@ -11,6 +11,7 @@
     "intro": "The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
     "manual": "Switch to fill the details manually"
   },
+  "invite" : {"message": "Hey, we need **you** for this campaign, could you join?"},
   "join": {
     "goal": "How many people do you expect will take action via your website?",
     "goalHelper": "This guess will only be seen by the coordinator… and we know it's hard to estimate",

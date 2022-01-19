@@ -11,7 +11,7 @@
     "thanks": "Danke, dass Du Dich an dieser Kampagne beteiligst",
     "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit ihr euch anschliessen könnt.",
     "done": "Du wirst eine Bestätigungsemail per Email erhalten. Du kannst bereits eine Testversion des <1>Widgets auf eure Website einbetten</1>",
-    "warning":{
+    "warning": {
       "is_partner": "Du bist bereits Partner/in von {{org}}"
     }
   },
