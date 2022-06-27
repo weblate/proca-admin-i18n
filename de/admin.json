@@ -63,5 +63,16 @@
     "Switch to fill the details manually": "Wechseln Sie zum manuellen Ausfüllen der Details",
     "invite": {
         "message": "Hey, wir brauchen **dich** für diese Kampagne, kannst du mitmachen?"
-    }
+    },
+    "consent": {
+        "confirm": "<0>Sind Sie sicher?</0><1>Wenn Sie 'Nein' wählen, werden Sie nicht erfahren, ob diese Kampagne erfolgreich ist oder ob wir gemeinsam weitere Maßnahmen ergreifen müssen, um sie zu gewinnen. Wenn Sie \"Ja\" wählen, werden wir Sie über diese und andere dringende Kampagnen auf dem Laufenden halten.</1><2>Sie können sich jederzeit abmelden.</2>",
+        "intro": "Erfahren Sie mehr über unsere Kampagnen, Aktionen und Fortschritte bei {{campaign}}",
+        "opt-in": "Ja, ich möchte, dass {{partner}} mich per E-Mail auf dem Laufenden hält",
+        "opt-out": "Nein, senden Sie mir keine E-Mails und halten Sie mich in Zukunft nicht auf dem Laufenden",
+        "processing": "Ihre persönlichen Daten werden vertraulich behandelt und sicher aufbewahrt. Mit der Übermittlung von Informationen erklären Sie sich mit der Verwendung von Daten und Cookies gemäß unserer <1>Datenschutzrichtlinie</1> einverstanden."
+      },
+      "share": {
+        "intro": "Toll, Sie haben unterschrieben 👍. Um Ihre Wirkung zu vervielfachen, teilen Sie diese Petition überall, damit alle sie sehen 🙏.",
+        "message": "Sie sollten das unterschreiben!"
+      }
 }
