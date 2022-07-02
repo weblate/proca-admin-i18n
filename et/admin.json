@@ -1,0 +1,13 @@
+{
+  "consent": {
+    "confirm": "<0> Kas olete kindel? </0> <1> Valides „Ei”, ei saa te teada, kas see kampaania on edukas või on selle võitmiseks vaja veel ühiseid meetmeid. Kui valite „Jah”, teavitame teid sellest ja teistest kiireloomulistest kampaaniatest. </1> <2> Võite tellimuse igal ajal tühistada. </2>",
+    "intro": "Hoia end kursis energiaharta kampaaniaga ja teiste tegevustega",
+    "opt-in": "Jah, hoia mind e-posti teel kursis",
+    "opt-out": "Ei, ära saada mulle tulevikus e-kirju",
+    "processing": "Teie isikuandmeid hoitakse privaatselt ja turvaliselt. Teabe edastamisega nõustute andmete ja küpsiste kasutamisega vastavalt meie <1> privaatsuseeskirjadele </1>"
+  },
+  "share": {
+    "intro": "Suurepärane, allkiri on lisatud! 👍 Et allkirjal oleks veel suurem mõju, jagage palun julgelt, et rohkem inimesi sellega liituksid.",
+    "message": "Peaksite sellele alla kirjutama!"
+  }
+}
