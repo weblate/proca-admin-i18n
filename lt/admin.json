@@ -1,0 +1,13 @@
+{
+  "consent": {
+    "confirm": "<0> Ar tikrai? </0> <1> Pasirinkę „Ne“, negalėsite sužinoti, ar ši kampanija yra sėkminga, ar reikia imtis daugiau veiksmų, kad ją laimėtume. Jei pasirinksite „Taip“, informuosime jus apie šią ir kitas skubias kampanijas. </1> <2> Galite bet kada atsisakyti prenumeratos. </2>",
+    "intro": "Sužinokite daugiau apie mūsų kampanijas, veiksmus ir {{campaign}} pažangą",
+    "opt-in": "Taip, noriu {{partner}} informuoti mane el. Paštu",
+    "opt-out": "Ne, nesiųskite man el. Laiškų ir neatnaujinkite",
+    "processing": "Jūsų asmeninė informacija bus saugoma ir saugoma. Pateikdami informaciją sutinkate naudoti duomenis ir slapukus pagal mūsų <1> privatumo politiką </1>"
+  },
+  "share": {
+    "intro": "Puiku, jūs pasirašėte 👍. Norėdami padauginti savo poveikį, dalinkitės toli ir plačiai, kad visi matytų šią peticiją🙏.",
+    "message": "Turėtumėte tai pasirašyti!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "consent": {
+    "confirm": "<0> Vai esat pārliecināts? </0> <1> Izvēloties “Nē”, Jūs nevarēsiet saņemt ziņas par šīs kampaņas rezultātiem. Ja izvēlēsieties “Jā”, mēs informēsim Jūs par šo un citām kampaņām. </1> <2> Jūs varat pārtraukt ziņu saņemšanu jebkurā laikā. </2>",
+    "intro": "Uzziniet vairāk par mūsu kampaņām, darbībām un {{campaign}} progresu",
+    "opt-in": "Jā, es vēlos, lai {{partner}} mani informētu e-pastā",
+    "opt-out": "Nē, es nevēlos saņemt kampaņas jaunumus",
+    "processing": "Jūsu personiskā informācija tiks glabāta kā privāta un droša. Iesniedzot informāciju, jūs piekrītat datu un sīkfailu izmantošanai saskaņā ar mūsu <1> konfidencialitātes politiku </1>"
+  },
+  "share": {
+    "intro": "Lieliski, jūs esat parakstījis 👍. Lai vairotu savu ietekmi, dalieties tālu un plaši, lai pārliecinātos, ka visi redz šo petīciju🙏.",
+    "message": "Jums to vajadzētu parakstīt!"
+  }
+}
