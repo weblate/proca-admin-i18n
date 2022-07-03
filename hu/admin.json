@@ -1,0 +1,13 @@
+{
+  "consent": {
+  "confirm": "<0>Biztos vagy benne?</0> <1> A „Nem” kiválasztásával nem fogsz értesülni róla, hogy a kampány sikeres-e, vagy lesznek-e egyéb akcióink a témában, amihez csatlakozhatsz. Ha az “Igen” lehetőséget választod, akkor folyamatosan tájékoztatunk majd erről a kampányról, és egyéb, jövőbeni kampányainkról is. </1> <2>Ezekről a levelekről bármikor leiratkozhatsz.</2>",
+  "intro": "Tudj meg többet kampányainkról, akcióinkról és a futó {{campaign}} kampány előrehaladásáról",
+  "opt-in": "Igen, szeretném, hogy a {{partner}} e-mailben értesítéseket küldjön Nekem",
+  "opt-out": "Nem, ne küldjön e-mailt, és ne tájékoztasson a jövőben",
+  "processing": "Személyes adataidat bizalmasan kezeljük. Az információk megadásával elfogadod adataid és a sütik használatát <1>adatvédelmi irányelveinknek</1> megfelelően"
+},
+"share": {
+  "intro": "Köszönjük, hogy aláírtad! 👍 Utolsó lépésként arra kérünk, hogy oszd meg a petíciót másokkal is, hogy mindenkihez eljuthasson! 🙏.",
+  "message": "Ezt alá kellene írnia!"
+}
+}
