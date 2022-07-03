@@ -1,0 +1,13 @@
+{
+  "consent": {
+    "confirm": "<0> Si si istý? </0> <1> Výberom možnosti „Nie“ nebudete môcť zistiť, či je táto kampaň úspešná alebo či je potrebné podniknúť ďalšie kroky, aby sme ju vyhrali. Ak vyberiete možnosť „Áno“, budeme vás informovať o tejto a ďalších urgentných kampaniach. </1> <2> Odber môžete kedykoľvek zrušiť. </2>",
+    "intro": "Súhlasím, že ma budete kontaktovať o vývoji {{campaign}}",
+    "opt-in": "Áno, chcem byť informovaný prostredníctvom e-mailu",
+    "opt-out": "Nie, nechcem, aby mi boli v budúcnosti zasielané e-maily alebo aby som bol informovaný",
+    "processing": "Vaše osobné údaje budú uchované v súkromí a bezpečne. Odoslaním informácií vyjadrujete súhlas s použitím údajov a súborov cookie v súlade s našimi <1> pravidlami ochrany osobných údajov </1>"
+  },
+  "share": {
+    "intro": "Výborne, podpísali ste 👍. Ak chcete znásobiť svoj vplyv, zdieľajte široko ďaleko, aby ste sa uistili, že všetci vidia túto petíciu🙏.",
+    "message": "Toto by ste mali podpísať!"
+  }
+}

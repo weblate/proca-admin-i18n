@@ -1,0 +1,13 @@
+{
+  "consent": {
+    "confirm": "<0> Ali ste prepričani? </0> <1> Če izberete »Ne«, ne boste seznanjeni z uspešnostjo te kampanje. Če izberete »Da«, vas bomo sproti obveščali o tej in o drugih kampanjah. </1> <2> Od prejemanja obvestil se lahko kadar koli odjavite. </2>",
+    "intro": "Preberite več o naših kampanjah, ukrepih in napredku {{campaign}}",
+    "opt-in": "Da, obveščajte me po e-pošti",
+    "opt-out": "Ne pošiljajte mi e-poštnih sporočil",
+    "processing": "Vaši osebni podatki obravnavani z največjo mero zaupnosti. S podpisom peticije se strinjate z uporabo podatkov v skladu z našim <1> pravilnikom o zasebnosti </1>."
+  },
+  "share": {
+    "intro": "Hvala za vaš podpis👍. Podprite kampanjo in razširite glas o njej z deljenjem te peticije.",
+    "message": "Moral bi to podpisati!"
+  }
+}
