@@ -1,10 +1,10 @@
 {
   "consent": {
-  "confirm": "<0> Sunteți sigur? </0> <1> Selectând „Nu”, nu veți putea afla dacă această campanie are succes sau dacă trebuie să luăm mai multe măsuri împreună pentru a o câștiga. Dacă selectați „Da”, vă vom ține la curent cu acest lucru și cu celelalte campanii urgente. </1> <2> Vă puteți dezabona în orice moment. </2>",
-  "intro": "Sunt de acord să mă contactați {{name}} pentru campanii importante",
-  "opt-in": "Da, ține-mă informat prin e-mail",
-  "opt-out": "Nu, nu-mi trimite e-mailuri și nu mă ține la curent cu viitorul",
-  "processing": "Informațiile dvs. personale vor fi păstrate private și păstrate în siguranță. Prin trimiterea informațiilor, sunteți de acord cu utilizarea datelor și a cookie-urilor în conformitate cu <1> politica noastră de confidențialitate </1>"
+    "confirm": "<0> Sunteți sigur? </0> <1> Selectând „Nu”, nu veți putea afla dacă această campanie are succes sau dacă trebuie să luăm mai multe măsuri împreună pentru a o câștiga. Dacă selectați „Da”, vă vom ține la curent cu acest lucru și cu celelalte campanii urgente. </1> <2> Vă puteți dezabona în orice moment. </2>",
+    "intro": "Sunt de acord să mă contactați {{name}} pentru campanii importante",
+    "opt-in": "Da, ține-mă informat prin e-mail",
+    "opt-out": "Nu, nu-mi trimite e-mailuri și nu mă ține la curent cu viitorul",
+    "processing": "Informațiile dvs. personale vor fi păstrate private și păstrate în siguranță. Prin trimiterea informațiilor, sunteți de acord cu utilizarea datelor și a cookie-urilor în conformitate cu <1> politica noastră de confidențialitate </1>"
   },
   "share": {
     "intro": "Super, ai semnat 👍. Pentru a vă multiplica impactul, împărtășiți în mare parte pentru a vă asigura că toată lumea vede această petiție🙏.",

@@ -1,78 +1,78 @@
 {
-    "Twitter Account": "Compte Twitter",
-    "My organisation isn't on twitter": "Mon organisation n’est pas sur twitter",
-    "onboarding": {
-        "welcome": "Bienvenue dans l'espace partenaires' ; de cette campagne coordonnée par {{coordinator}}.",
-        "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
-        "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible.",
-        "thanks": "Merci de vous joindre à cette campagne",
-        "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez d'ores et déjà intégrer une version de test du <1>widget sur votre site web</1> ;",
-        "warning": {
-            "is_partner": "👋 Hey stop ! Vous êtes déjà un partenaire de cette campagne ! Cela n'a pas de sens pour vous de vous joindre à nouveau !"
-        },
-        "embargo": "Embargo",
-        "embargoHelper": "Je reconnais que le matériel de la campagne fait l'objet d'un embargo strict jusqu'à nouvel ordre. Je m'engage à NE PAS PARTAGER ce matériel avec quiconque en dehors de mon organisation.",
-        "mailling": "Liste de diffusion",
-        "maillingHelper": "En soumettant ce formulaire, j'accepte d'être ajouté à la liste de diffusion {{campaign}}. Je peux me désinscrire à tout moment.",
-        "organisation": {
-            "network": "Mon organisation fait partie d'une organisation parapluie...",
-            "networkHelper": "Nous accueillons toutes les organisations !",
-            "sectionTitle": "Organisation",
-            "organisationHelper": "De quelle partie de la famille êtes-vous ? Nous accueillons toutes les organisations !",
-            "collectsEmail": "Vous n’avez pas de bulletin d’information et ne souhaitez pas collecter d’adresses électroniques ? (Vous pourrez vous-même masquer cette fonctionnalité sur votre site web) Cochez cette case :",
-            "collectsEmailHelper": "Je n’ai pas de newsletter. Je suis sûr que je ne veux pas d'une case à cocher pour la newsletter qui recueille des adresses électroniques que nous pouvons utiliser par la suite.",
-            "remarks": "Avez-vous des commentaires sur l'outil à nous communiquer ?",
-            "crm": "Quel logiciel de CRM utilisez-vous ?",
-            "doubleOptIn": "Mes supporters doivent s'inscrire pour recevoir la newsletter."
-        },
-        "user": {
-            "sectionTitle": "Personne de contact pour cette campagne",
-            "country": "Votre pays",
-            "name": "Votre nom",
-            "jobTitle": "Titre du poste",
-            "emailAddress": "Votre adresse électronique",
-            "socialAccount": "Vos poignées ou URL Twitter/Facebook/Instagram",
-            "phoneNumber": "Votre numéro de téléphone (y compris l'indicatif du pays)"
-        },
-        "verify": "Votre adresse électronique n'est pas encore vérifiée. Veuillez vérifier votre e-mail et cliquer sur le lien de confirmation pour continuer.",
-        "login": "Pour commencer, vous devez vous inscrire ou vous connecter, si vous êtes déjà inscrit."
+  "Twitter Account": "Compte Twitter",
+  "My organisation isn't on twitter": "Mon organisation n’est pas sur twitter",
+  "onboarding": {
+    "welcome": "Bienvenue dans l'espace partenaires' ; de cette campagne coordonnée par {{coordinator}}.",
+    "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
+    "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible.",
+    "thanks": "Merci de vous joindre à cette campagne",
+    "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez d'ores et déjà intégrer une version de test du <1>widget sur votre site web</1> ;",
+    "warning": {
+      "is_partner": "👋 Hey stop ! Vous êtes déjà un partenaire de cette campagne ! Cela n'a pas de sens pour vous de vous joindre à nouveau !"
     },
-    "createOrg": {
-        "manual": "Commencez à remplir les détails manuellement",
-        "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
+    "embargo": "Embargo",
+    "embargoHelper": "Je reconnais que le matériel de la campagne fait l'objet d'un embargo strict jusqu'à nouvel ordre. Je m'engage à NE PAS PARTAGER ce matériel avec quiconque en dehors de mon organisation.",
+    "mailling": "Liste de diffusion",
+    "maillingHelper": "En soumettant ce formulaire, j'accepte d'être ajouté à la liste de diffusion {{campaign}}. Je peux me désinscrire à tout moment.",
+    "organisation": {
+      "network": "Mon organisation fait partie d'une organisation parapluie...",
+      "networkHelper": "Nous accueillons toutes les organisations !",
+      "sectionTitle": "Organisation",
+      "organisationHelper": "De quelle partie de la famille êtes-vous ? Nous accueillons toutes les organisations !",
+      "collectsEmail": "Vous n’avez pas de bulletin d’information et ne souhaitez pas collecter d’adresses électroniques ? (Vous pourrez vous-même masquer cette fonctionnalité sur votre site web) Cochez cette case :",
+      "collectsEmailHelper": "Je n’ai pas de newsletter. Je suis sûr que je ne veux pas d'une case à cocher pour la newsletter qui recueille des adresses électroniques que nous pouvons utiliser par la suite.",
+      "remarks": "Avez-vous des commentaires sur l'outil à nous communiquer ?",
+      "crm": "Quel logiciel de CRM utilisez-vous ?",
+      "doubleOptIn": "Mes supporters doivent s'inscrire pour recevoir la newsletter."
     },
-    "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation.",
-    "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}.",
-    "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
-    "You are also a member of {{org}}": "👋 Hey stop ! Vous êtes le collaborateur de {{org}}, qui mène cette campagne ! Vous ne pouvez pas la rejoindre en tant que partenaire !",
-    "step": {
-        "join_campaign": "Demande d'adhésion",
-        "done": "Prenez votre widget",
-        "create_org": "Créez votre organisation",
-        "configure_org": "Votre organisation",
-        "login": "Votre compte",
-        "verify": "Vérifiez votre e-mail"
+    "user": {
+      "sectionTitle": "Personne de contact pour cette campagne",
+      "country": "Votre pays",
+      "name": "Votre nom",
+      "jobTitle": "Titre du poste",
+      "emailAddress": "Votre adresse électronique",
+      "socialAccount": "Vos poignées ou URL Twitter/Facebook/Instagram",
+      "phoneNumber": "Votre numéro de téléphone (y compris l'indicatif du pays)"
     },
-    "join": {
-        "requestHelper": "pour nous aider aider à organiser cette campagne",
-        "request": "Prévoyez-vous un mailing dédié à vos supporters ? Prévoyez-vous également des activités dans les médias sociaux, y compris des publicités payantes ?",
-        "goalHelper": "Cette estimation ne sera vue que par le coordinateur... et nous savons qu’elle est difficile à estimer.",
-        "goal": "Combien de personnes pensez-vous que votre site Web va susciter des actions ?"
-    },
-    "Used to fill the details of your organisation": "Utilisé pour remplir les détails de votre organisation",
-    "Switch to fill the details manually": "Commencez à remplir les détails manuellement",
-    "invite": {
-        "message": "Hé, nous avons besoin de **vous** pour cette campagne, pourriez-vous nous rejoindre ?"
-    },
-    "consent": {
-        "confirm": "<0>Êtes-vous sûr·e ? </0><1>En sélectionnant « Non », vous ne pourrez pas savoir si cette campagne est réussie, ou s'il y a d'autres actions que nous devons mener ensemble pour la gagner. Si vous sélectionnez « Oui », nous vous tiendrons au courant de cette campagne et de nos autres campagnes urgentes.</1><2>Vous pouvez vous désinscrire à tout moment.</2>",
-        "intro": "Découvrez nos campagnes, actions et les progrès de {{campaign}}",
-        "opt-in": "Oui, je veux que {{partner}} me tienne informé par e-mail",
-        "opt-out": "Non, ne m'envoyez pas d'e-mails et ne me tenez pas au courant à l'avenir",
-        "processing": "Vos informations personnelles resteront privées et seront conservées en toute sécurité. En soumettant des informations, vous acceptez l'utilisation des données et des cookies conformément à notre <1>politique de confidentialité</1>"
-    },
-    "share": {
-        "intro": "Super, vous avez signé 👍. Pour multiplier votre impact, partagez largement pour que tout le monde voie cette pétition 🙏.",
-        "message": "Vous devriez signer ça !"
-    }
+    "verify": "Votre adresse électronique n'est pas encore vérifiée. Veuillez vérifier votre e-mail et cliquer sur le lien de confirmation pour continuer.",
+    "login": "Pour commencer, vous devez vous inscrire ou vous connecter, si vous êtes déjà inscrit."
+  },
+  "createOrg": {
+    "manual": "Commencez à remplir les détails manuellement",
+    "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
+  },
+  "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation.",
+  "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}.",
+  "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
+  "You are also a member of {{org}}": "👋 Hey stop ! Vous êtes le collaborateur de {{org}}, qui mène cette campagne ! Vous ne pouvez pas la rejoindre en tant que partenaire !",
+  "step": {
+    "join_campaign": "Demande d'adhésion",
+    "done": "Prenez votre widget",
+    "create_org": "Créez votre organisation",
+    "configure_org": "Votre organisation",
+    "login": "Votre compte",
+    "verify": "Vérifiez votre e-mail"
+  },
+  "join": {
+    "requestHelper": "pour nous aider aider à organiser cette campagne",
+    "request": "Prévoyez-vous un mailing dédié à vos supporters ? Prévoyez-vous également des activités dans les médias sociaux, y compris des publicités payantes ?",
+    "goalHelper": "Cette estimation ne sera vue que par le coordinateur... et nous savons qu’elle est difficile à estimer.",
+    "goal": "Combien de personnes pensez-vous que votre site Web va susciter des actions ?"
+  },
+  "Used to fill the details of your organisation": "Utilisé pour remplir les détails de votre organisation",
+  "Switch to fill the details manually": "Commencez à remplir les détails manuellement",
+  "invite": {
+    "message": "Hé, nous avons besoin de **vous** pour cette campagne, pourriez-vous nous rejoindre ?"
+  },
+  "consent": {
+    "confirm": "<0>Êtes-vous sûr·e ? </0><1>En sélectionnant « Non », vous ne pourrez pas savoir si cette campagne est réussie, ou s'il y a d'autres actions que nous devons mener ensemble pour la gagner. Si vous sélectionnez « Oui », nous vous tiendrons au courant de cette campagne et de nos autres campagnes urgentes.</1><2>Vous pouvez vous désinscrire à tout moment.</2>",
+    "intro": "Découvrez nos campagnes, actions et les progrès de {{campaign}}",
+    "opt-in": "Oui, je veux que {{partner}} me tienne informé par e-mail",
+    "opt-out": "Non, ne m'envoyez pas d'e-mails et ne me tenez pas au courant à l'avenir",
+    "processing": "Vos informations personnelles resteront privées et seront conservées en toute sécurité. En soumettant des informations, vous acceptez l'utilisation des données et des cookies conformément à notre <1>politique de confidentialité</1>"
+  },
+  "share": {
+    "intro": "Super, vous avez signé 👍. Pour multiplier votre impact, partagez largement pour que tout le monde voie cette pétition 🙏.",
+    "message": "Vous devriez signer ça !"
+  }
 }

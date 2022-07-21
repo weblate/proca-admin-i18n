@@ -5,9 +5,9 @@
     "opt-in": "Ja, hold mig informeret via e-mail",
     "opt-out": "Nej, send mig ikke e-mails, eller hold mig opdateret i fremtiden",
     "processing": "Dine personlige oplysninger holdes private og opbevares sikkert. Ved at indsende oplysninger accepterer du brugen af data og cookies i overensstemmelse med vores <1> privatlivspolitik </1>"
-      },
+  },
   "share": {
     "intro": "Tusind tak for din underskrift 👍. Vi håber, at du vil hjælpe med at sprede budskabet ved at dele underskriftsindsamlingen i dit netværk. 🙏.",
     "message": "Du skal underskrive dette!"
-    }
+  }
 }

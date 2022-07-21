@@ -15,13 +15,6 @@
   "You are registered for {{campaign}}": "You are registered for {{campaign}}",
   "You can register an new organisation to join the coalition": "You can register an new organisation to join the coalition",
   "You can update your organisation's details": "You can update your organisation's details",
-  "consent": {
-    "confirm": "<0>Are you sure?</0><1>By selecting 'No', you won't be able to find out if this campaign is successful, or if there's more action we need to take together to win it. If you select 'Yes' we'll keep you updated about this and our other urgent campaigns.</1><2>You can unsubscribe at any time.</2>",
-    "intro": "Find out more about our campaigns, actions and {{campaign}} progress",
-    "opt-in": "Yes, I want {{partner}} to keep me informed via email",
-    "opt-out": "No, don't send me emails or keep me updated in future",
-    "processing": "Your personal information will be kept private and held securely. By submitting information you are agreeing to the use of data and cookies in accordance with our <1>privacy policy</1>"
-  },
   "createOrg": {
     "intro": "The fastest is to start with the twitter account of your organisation (if you have several, pick one)",
     "manual": "Switch to fill the details manually"
@@ -70,12 +63,6 @@
       "is_partner": "👋 Hey stop! You are already a partner in this campaign! It does not make sense for you to join again!"
     },
     "welcome": "Welcome to the partners' area for this campaign coordinated by {{coordinator}}"
-  },
-  "share": {
-    "default": "No default text yet",
-    "intro": "Great, you’ve signed 👍. To multiply your impact, share far and wide to make sure everyone sees this petition 🙏.",
-    "message": "You should sign this!",
-    "twitter": "No default text yet"
   },
   "step": {
     "configure_org": "Your organisation",
