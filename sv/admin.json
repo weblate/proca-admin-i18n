@@ -1,13 +1,3 @@
 {
-  "consent": {
-    "confirm": "<0> Är du säker? </0> <1> Genom att välja \"Nej\" kan du inte ta reda på om den här kampanjen lyckas, eller om det finns fler åtgärder vi måste vidta för att vinna den. Om du väljer \"Ja\" håller vi dig uppdaterad om detta och våra andra brådskande kampanjer. </1> <2> Du kan när som helst avsluta prenumerationen. </2>",
-    "intro": "Jag godkänner att {{name}} kontaktar mig om viktiga kampanjer",
-    "opt-in": "Ja, håll mig informerad via e-post",
-    "opt-out": "Nej, skicka inte mejl eller håll mig uppdaterad i framtiden",
-    "processing": "Din personliga information kommer att hållas privat och förvaras säkert. Genom att skicka information samtycker du till användning av data och kakor i enlighet med vår <1> sekretesspolicy </1>"
-  },
-  "share": {
-    "intro": "Tack för din underskrift👍\nFör att sprida budskapet, dela gärna namninsamlingen med dina vänner!",
-    "message": "Du borde underteckna detta!"
-  }
+
 }
