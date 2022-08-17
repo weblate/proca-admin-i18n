@@ -1,4 +1,6 @@
 {
+  "mineOnly": "only from my organisation",
+  "unusedOnly": "only unsed widgets",
   "Customise": "Customise",
   "Fields": "Fields",
   "My organisation isn't on Twitter": "My organisation isn't on Twitter",
