@@ -35,7 +35,7 @@
     "embargo": "Embargo",
     "embargoHelper": "I acknowledge that the campaign materials are strictly embargoed until further notice. I agree to NOT SHARING these materials with anyone outside of my organisation.",
     "intro": "To increase our impact, we need a broad coalition and we tried to make it as simple as possible to let you join it.",
-    "login": "To begin, you need to register or log in, if you have already registered.",
+    "login": "Register as a user or login with your social media credentials or your email. It is your personal account, you will be able to set up your organisation after your register.",
     "mailling": "Mailing list",
     "maillingHelper": "By submitting this form, I agree to be added to the {{campaign}} mailing list. I can unsubscribe at any time.",
     "organisation": {
@@ -70,7 +70,7 @@
     "configure_org": "Your organisation",
     "create_org": "Create your organisation",
     "done": "Take your widget",
-    "join_campaign": "Request to join",
+    "join_campaign": "Join the campaign",
     "login": "Your account",
     "verify": "Verify your email"
   }
