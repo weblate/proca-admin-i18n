@@ -1,6 +1,7 @@
 {
   "mineOnly": "only from my organisation",
-  "unusedOnly": "only unsed widgets",
+  "unusedOnly": "only unused widgets",
+  "externalPartner": "only external partners",
   "Customise": "Customise",
   "Fields": "Fields",
   "My organisation isn't on Twitter": "My organisation isn't on Twitter",
