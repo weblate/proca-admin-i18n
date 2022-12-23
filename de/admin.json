@@ -1,67 +1,75 @@
 {
-  "onboarding": {
-    "welcome": "Willkommen im Partner' Bereich für diese Kampagne, koordiniert von {{coordinator}}",
-    "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
-    "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können.",
-    "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
-    "done": "Sie erhalten dann eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>",
-    "warning": {
-      "is_partner": "👋 Hey stop! Du bist bereits ein Partner in dieser Kampagne! Es macht keinen Sinn für dich, noch einmal mitzumachen!"
+    "onboarding": {
+        "welcome": "Willkommen im Partner' Bereich für diese Kampagne, koordiniert von {{coordinator}}",
+        "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
+        "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können.",
+        "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
+        "done": "Sie erhalten dann eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>",
+        "warning": {
+            "is_partner": "👋 Hey stop! Du bist bereits ein Partner in dieser Kampagne! Es macht keinen Sinn für dich, noch einmal mitzumachen!"
+        },
+        "embargo": "Embargo",
+        "user": {
+            "name": "Ihr Name",
+            "emailAddress": "Ihre E-Mail Adresse",
+            "socialAccount": "Ihre Twitter/Facebook/Instagram-Handles oder URL",
+            "sectionTitle": "Kontaktperson für diese Kampagne",
+            "country": "Ihr Land",
+            "jobTitle": "Berufsbezeichnung",
+            "phoneNumber": "Ihre Telefonnummer (inkl. Landesvorwahl)"
+        },
+        "login": "",
+        "embargoHelper": "Ich nehme zur Kenntnis, dass die Materialien der Kampagne bis auf weiteres unter strengem Embargo stehen. Ich stimme zu, diese Materialien NICHT an Personen außerhalb meiner Organisation weiterzugeben.",
+        "mailling": "Mailingliste",
+        "maillingHelper": "Mit dem Absenden dieses Formulars erkläre ich mich einverstanden, in die {{campaign}} Mailingliste aufgenommen zu werden. Ich kann mich jederzeit wieder abmelden.",
+        "organisation": {
+            "network": "Meine Organisation ist Teil einer Dachorganisation...",
+            "networkHelper": "Wir heißen alle Organisationen willkommen!",
+            "sectionTitle": "Organisation",
+            "organisationHelper": "Aus welchem Teil der Familie sind Sie? Wir heißen alle Organisationen willkommen!",
+            "collectsEmail": "Sie haben keinen Newsletter und möchten keine E-Mail-Adressen sammeln? (Sie können diese Funktion auf Ihrer Website selbst ausblenden) Kreuzen Sie dieses Feld an:",
+            "collectsEmailHelper": "Ich habe keinen Newsletter. Ich bin mir sicher, dass ich kein Newsletter-Kästchen möchte, das E-Mail-Adressen sammelt, die wir anschließend verwenden können.",
+            "remarks": "Haben Sie Anmerkungen zu dem Tool, die Sie uns mitteilen möchten?",
+            "crm": "Welche CRM-Software verwenden Sie?",
+            "doubleOptIn": "Meine Unterstützer müssen sich doppelt anmelden, um den Newsletter zu erhalten"
+        },
+        "verify": "Ihre E-Mail ist noch nicht verifiziert. Bitte überprüfen Sie Ihre E-Mail und klicken Sie auf den Bestätigungslink, um fortzufahren."
     },
-    "embargo": "Embargo",
-    "user": {
-      "name": "Ihr Name",
-      "emailAddress": "Ihre E-Mail Adresse",
-      "socialAccount": "Ihre Twitter/Facebook/Instagram-Handles oder URL",
-      "sectionTitle": "Kontaktperson für diese Kampagne",
-      "country": "Ihr Land",
-      "jobTitle": "Berufsbezeichnung",
-      "phoneNumber": "Ihre Telefonnummer (inkl. Landesvorwahl)"
+    "createOrg": {
+        "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
+        "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
     },
-    "login": "Um zu beginnen, müssen Sie sich registrieren oder anmelden, wenn Sie bereits registriert sind.",
-    "embargoHelper": "Ich nehme zur Kenntnis, dass die Materialien der Kampagne bis auf weiteres unter strengem Embargo stehen. Ich stimme zu, diese Materialien NICHT an Personen außerhalb meiner Organisation weiterzugeben.",
-    "mailling": "Mailingliste",
-    "maillingHelper": "Mit dem Absenden dieses Formulars erkläre ich mich einverstanden, in die {{campaign}} Mailingliste aufgenommen zu werden. Ich kann mich jederzeit wieder abmelden.",
-    "organisation": {
-      "network": "Meine Organisation ist Teil einer Dachorganisation...",
-      "networkHelper": "Wir heißen alle Organisationen willkommen!",
-      "sectionTitle": "Organisation",
-      "organisationHelper": "Aus welchem Teil der Familie sind Sie? Wir heißen alle Organisationen willkommen!",
-      "collectsEmail": "Sie haben keinen Newsletter und möchten keine E-Mail-Adressen sammeln? (Sie können diese Funktion auf Ihrer Website selbst ausblenden) Kreuzen Sie dieses Feld an:",
-      "collectsEmailHelper": "Ich habe keinen Newsletter. Ich bin mir sicher, dass ich kein Newsletter-Kästchen möchte, das E-Mail-Adressen sammelt, die wir anschließend verwenden können.",
-      "remarks": "Haben Sie Anmerkungen zu dem Tool, die Sie uns mitteilen möchten?",
-      "crm": "Welche CRM-Software verwenden Sie?",
-      "doubleOptIn": "Meine Unterstützer müssen sich doppelt anmelden, um den Newsletter zu erhalten"
+    "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren.",
+    "You are registered for {{campaign}}": "Sie sind angemeldet für {{campaign}}",
+    "You are one of the coordinators of that campaign": "Sie sind einer der Koordinatoren dieser Kampagne",
+    "You are also a member of {{org}}": "👋 Hey stop! Du bist der Mitarbeiter von {{org}}, der diese Kampagne leitet! Du kannst nicht auch noch als Partner mitmachen!",
+    "Twitter Account": "Twitter-Konto",
+    "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter'",
+    "step": {
+        "join_campaign": "",
+        "done": "Nehmen Sie Ihr Widget",
+        "create_org": "Erstellen Sie Ihre Organisation",
+        "configure_org": "Ihre Organisation",
+        "login": "Ihr Konto",
+        "verify": "Überprüfen Sie Ihre E-Mail"
     },
-    "verify": "Ihre E-Mail ist noch nicht verifiziert. Bitte überprüfen Sie Ihre E-Mail und klicken Sie auf den Bestätigungslink, um fortzufahren."
-  },
-  "createOrg": {
-    "manual": "Wechseln Sie zum manuellen Ausfüllen der Details",
-    "intro": "Am schnellsten geht es, wenn Sie mit dem Twitter-Account Ihrer Organisation beginnen (wenn Sie mehrere haben, wählen Sie einen aus)"
-  },
-  "You can update your organisation's details": "Sie können die Angaben zu Ihrer Organisation aktualisieren.",
-  "You are registered for {{campaign}}": "Sie sind angemeldet für {{campaign}}",
-  "You are one of the coordinators of that campaign": "Sie sind einer der Koordinatoren dieser Kampagne",
-  "You are also a member of {{org}}": "👋 Hey stop! Du bist der Mitarbeiter von {{org}}, der diese Kampagne leitet! Du kannst nicht auch noch als Partner mitmachen!",
-  "Twitter Account": "Twitter-Konto",
-  "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter'",
-  "step": {
-    "join_campaign": "Antrag auf Beitritt",
-    "done": "Nehmen Sie Ihr Widget",
-    "create_org": "Erstellen Sie Ihre Organisation",
-    "configure_org": "Ihre Organisation",
-    "login": "Ihr Konto",
-    "verify": "Überprüfen Sie Ihre E-Mail"
-  },
-  "join": {
-    "requestHelper": "um uns bei der Planung dieser Kampagne zu helfen",
-    "request": "Planen Sie spezielle Mailings an Ihre Unterstützer? Planen Sie auch Aktivitäten in den sozialen Medien, einschließlich bezahlter Werbung?",
-    "goalHelper": "Diese Schätzung wird nur vom Koordinator gesehen... und wir wissen, dass sie schwer einzuschätzen ist'",
-    "goal": "Wie viele Personen werden Ihrer Meinung nach über Ihre Website aktiv?"
-  },
-  "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
-  "Switch to fill the details manually": "Wechseln Sie zum manuellen Ausfüllen der Details",
-  "invite": {
-    "message": "Hey, wir brauchen **dich** für diese Kampagne, kannst du mitmachen?"
-  }
+    "join": {
+        "requestHelper": "um uns bei der Planung dieser Kampagne zu helfen",
+        "request": "Planen Sie spezielle Mailings an Ihre Unterstützer? Planen Sie auch Aktivitäten in den sozialen Medien, einschließlich bezahlter Werbung?",
+        "goalHelper": "Diese Schätzung wird nur vom Koordinator gesehen... und wir wissen, dass sie schwer einzuschätzen ist'",
+        "goal": "Wie viele Personen werden Ihrer Meinung nach über Ihre Website aktiv?"
+    },
+    "Used to fill the details of your organisation": "Dient zum Ausfüllen der Angaben zu Ihrer Organisation",
+    "Switch to fill the details manually": "Wechseln Sie zum manuellen Ausfüllen der Details",
+    "invite": {
+        "message": "Hey, wir brauchen **dich** für diese Kampagne, kannst du mitmachen?"
+    },
+    "externalPartner": "nur externe Partner",
+    "Customise": "Anpassen",
+    "Fields": "Felder",
+    "My organisation isn't on Twitter": "Meine Organisation ist nicht auf Twitter",
+    "Required": "Erforderlich",
+    "Show": "Anzeigen",
+    "mineOnly": "nur von meiner Organisation",
+    "You can register an new organisation to join the coalition": "Sie können eine neue Organisation registrieren, um der Koalition beizutreten"
 }
