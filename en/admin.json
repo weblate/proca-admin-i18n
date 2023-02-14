@@ -58,8 +58,9 @@
       "jobTitle": "Job Title",
       "name": "Your Name",
       "phoneNumber": "Your phone number (incl. country code)",
-      "sectionTitle": "Contact person for this campaign",
-      "socialAccount": "Your Twitter/Facebook/Instagram handles or URL"
+      "sectionTitle": "Your contact details",
+      "socialAccount": "Your social media",
+      "socialAccountHelper": "On Twitter/Instagram/Linkedin"
     },
     "verify": "Your email  is not yet verified. Please check your email and click on the confirmation link to continue.",
     "warning": {
