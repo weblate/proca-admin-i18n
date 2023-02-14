@@ -57,7 +57,8 @@
       "emailAddress": "Your email address",
       "jobTitle": "Job Title",
       "name": "Your Name",
-      "phoneNumber": "Your phone number (incl. country code)",
+      "phoneNumber": "Your phone number",
+      "phoneNumberHelper": "Including country code",
       "sectionTitle": "Your contact details",
       "socialAccount": "Your social media",
       "socialAccountHelper": "On Twitter/Instagram/Linkedin"
