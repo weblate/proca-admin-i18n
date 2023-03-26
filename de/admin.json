@@ -18,7 +18,7 @@
             "jobTitle": "Berufsbezeichnung",
             "phoneNumber": "Ihre Telefonnummer (inkl. Landesvorwahl)"
         },
-        "login": "",
+        "login": "Registrieren Sie sich als Benutzer oder melden Sie sich mit Ihren Anmeldedaten für soziale Medien oder Ihrer E-Mail an. Es handelt sich um Ihr persönliches Konto, Sie können Ihre Organisation nach der Registrierung einrichten.",
         "embargoHelper": "Ich nehme zur Kenntnis, dass die Materialien der Kampagne bis auf weiteres unter strengem Embargo stehen. Ich stimme zu, diese Materialien NICHT an Personen außerhalb meiner Organisation weiterzugeben.",
         "mailling": "Mailingliste",
         "maillingHelper": "Mit dem Absenden dieses Formulars erkläre ich mich einverstanden, in die {{campaign}} Mailingliste aufgenommen zu werden. Ich kann mich jederzeit wieder abmelden.",
@@ -46,7 +46,7 @@
     "Twitter Account": "Twitter-Konto",
     "My organisation isn't on twitter": "Meine Organisation ist nicht auf Twitter'",
     "step": {
-        "join_campaign": "",
+        "join_campaign": "Beteiligen Sie sich an der Kampagne",
         "done": "Nehmen Sie Ihr Widget",
         "create_org": "Erstellen Sie Ihre Organisation",
         "configure_org": "Ihre Organisation",
@@ -71,5 +71,8 @@
     "Required": "Erforderlich",
     "Show": "Anzeigen",
     "mineOnly": "nur von meiner Organisation",
-    "You can register an new organisation to join the coalition": "Sie können eine neue Organisation registrieren, um der Koalition beizutreten"
+    "You can register an new organisation to join the coalition": "Sie können eine neue Organisation registrieren, um der Koalition beizutreten",
+    "Used to pre-fill name, description and logo of your organisation": "Dient zum Vorausfüllen von Name, Beschreibung und Logo Ihrer Organisation",
+    "View your widget for {{org}}": "Betrachten Sie Ihr Widget für {{org}}",
+    "unusedOnly": "nur unbenutzte Widgets"
 }
