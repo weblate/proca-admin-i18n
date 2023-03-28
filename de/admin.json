@@ -1,7 +1,7 @@
 {
     "onboarding": {
         "welcome": "Willkommen im Partner' Bereich für diese Kampagne, koordiniert von {{coordinator}}",
-        "title": "Sind Sie eine Organisation oder eine soziale Bewegung und möchten Sie diese Kampagne auf Ihrer Website veröffentlichen?",
+        "title": "Sind Sie eine Organisation oder eine soziale Bewegung, die diese Kampagne auf ihrer Webseite veröffentlichen möchte?",
         "intro": "Um unsere Wirkung zu verstärken, brauchen wir eine breite Koalition, und wir haben versucht, es so einfach wie möglich zu machen, damit Sie sich ihr anschließen können.",
         "thanks": "Danke, dass Sie sich an dieser Kampagne beteiligen",
         "done": "Sie erhalten dann eine Bestätigungsnachricht per E-Mail. Sie können bereits eine Testversion des <1>Widgets auf Ihrer Website einbetten</1>",
@@ -12,11 +12,13 @@
         "user": {
             "name": "Ihr Name",
             "emailAddress": "Ihre E-Mail Adresse",
-            "socialAccount": "Ihre Twitter/Facebook/Instagram-Handles oder URL",
-            "sectionTitle": "Kontaktperson für diese Kampagne",
+            "socialAccount": "Ihre sozialen Medien",
+            "sectionTitle": "Ihre Kontaktinformationen",
             "country": "Ihr Land",
             "jobTitle": "Berufsbezeichnung",
-            "phoneNumber": "Ihre Telefonnummer (inkl. Landesvorwahl)"
+            "phoneNumber": "Ihre Telefonnummer",
+            "socialAccountHelper": "Auf Twitter/Instagram/Linkedin",
+            "phoneNumberHelper": "Einschließlich Landesvorwahl"
         },
         "login": "Registrieren Sie sich als Benutzer oder melden Sie sich mit Ihren Anmeldedaten für soziale Medien oder Ihrer E-Mail an. Es handelt sich um Ihr persönliches Konto, Sie können Ihre Organisation nach der Registrierung einrichten.",
         "embargoHelper": "Ich nehme zur Kenntnis, dass die Materialien der Kampagne bis auf weiteres unter strengem Embargo stehen. Ich stimme zu, diese Materialien NICHT an Personen außerhalb meiner Organisation weiterzugeben.",
