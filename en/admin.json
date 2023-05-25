@@ -1,4 +1,10 @@
 {
+  "action": {
+     "mail2target": "Mail to target",
+     "register": "Register",
+     "share": "Share on social media",
+     "twitter_click": "Tweet to target"
+  },
   "mineOnly": "only from my organisation",
   "unusedOnly": "only unused widgets",
   "externalPartner": "only external partners",
