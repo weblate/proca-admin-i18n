@@ -76,5 +76,10 @@
     "You can register an new organisation to join the coalition": "Sie können eine neue Organisation registrieren, um der Koalition beizutreten",
     "Used to pre-fill name, description and logo of your organisation": "Dient zum Vorausfüllen von Name, Beschreibung und Logo Ihrer Organisation",
     "View your widget for {{org}}": "Betrachten Sie Ihr Widget für {{org}}",
-    "unusedOnly": "nur unbenutzte Widgets"
+    "unusedOnly": "nur unbenutzte Widgets",
+    "action": {
+        "twitter_click": "An Ziel twittern",
+        "register": "Registrieren",
+        "share": "In sozialen Medien teilen"
+    }
 }
