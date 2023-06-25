@@ -80,5 +80,9 @@
     "Show": "Pokaži",
     "Used to pre-fill name, description and logo of your organisation": "Koristi se za popunjavanje imena, opisa i logotipa tvoje organizacije",
     "mineOnly": "samo od moje organizacije",
-    "Required": "Obavezno"
+    "Required": "Obavezno",
+    "action": {
+        "share": "Dijeli na društvenim mrežama",
+        "register": "Registriraj se"
+    }
 }
