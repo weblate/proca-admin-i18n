@@ -1,14 +1,14 @@
 {
     "My organisation isn't on twitter": "Moja organizacija nije na Twitteru",
-    "Switch to fill the details manually": "Prebaci na ručno ispunjavanje detalja",
+    "Switch to fill the details manually": "Prebaci na ručni unos podataka",
     "Twitter Account": "Twitter račun",
-    "Used to fill the details of your organisation": "Koristi se za popunjavanje podataka tvoje organizacije",
+    "Used to fill the details of your organisation": "Koristi se za unos podataka tvoje organizacije",
     "You are also a member of {{org}}": "👋 Hej, stani! Ti si zaposlenik organizacije {{org}}, koji vodi ovu kampanju! Ne može joj se pridružiti i kao partner!",
     "You are one of the coordinators of that campaign": "Ti si jedan koordinator/jedna kordinatorica te kampanje",
     "You are registered for {{campaign}}": "Registriran/a si za {{campaign}}",
     "You can update your organisation's details": "Podatke tvoje organizacije možeš aktualizirati",
     "createOrg": {
-        "manual": "Prebaci na ručno ispunjavanje detalja",
+        "manual": "Prebaci na ručni unos podataka",
         "intro": "Najbrže je započeti s twitter računom tvoje organizacije (ako ih imaš nekoliko, odaberi jedan)",
         "related": "Iz kojeg si dijela obitelji?",
         "relatedHelper": "Pozdravljamo sve organizacije!"
@@ -55,7 +55,7 @@
             "phoneNumber": "Tvoj telefonski broj",
             "country": "Tvoja zemlja",
             "phoneNumberHelper": "Uključujući pozivni broj zemlje",
-            "socialAccountHelper": "Twitter/Instagram/Linkedin"
+            "socialAccountHelper": "Na Twitteru/Instagramu/Linkedinu"
         },
         "embargoHelper": "Potvrđujem da su materijali kampanje pod strogim embargom do daljnjega. Slažem se da NEĆU DIJELITI ove materijale s bilo kim izvan moje organizacije."
     },
@@ -78,11 +78,13 @@
     "Fields": "Polja",
     "My organisation isn't on Twitter": "Moja organizacija nije na Twitteru",
     "Show": "Pokaži",
-    "Used to pre-fill name, description and logo of your organisation": "Koristi se za popunjavanje imena, opisa i logotipa tvoje organizacije",
+    "Used to pre-fill name, description and logo of your organisation": "Koristi se za automatski unos imena, opisa i logotipa tvoje organizacije",
     "mineOnly": "samo od moje organizacije",
     "Required": "Obavezno",
     "action": {
         "share": "Dijeli na društvenim mrežama",
-        "register": "Registriraj se"
+        "register": "Registriraj se",
+        "twitter_click": "Tweet za cilj",
+        "mail2target": "E-mail za cilj"
     }
 }
