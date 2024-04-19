@@ -1,1 +1,46 @@
-{}
+{
+    "join": {
+        "request": "¿Planeas enviar correos electrónicos dedicados a tus seguidores? También ¿está planificando actividades en las redes sociales, incluida la publicidad pagada?",
+        "goal": "¿Cuántas personas crees que están interactuando con tu página web?",
+        "goalHelper": "Esta suposición solo la verá el coordinador... y sabemos que es difícil de estimar",
+        "requestHelper": "ayúdenos a planificar esta campaña"
+    },
+    "action": {
+        "share": "Compartir en las redes sociales",
+        "twitter_click": "Tuit a destinatario",
+        "mail2target": "Correo al destinatario",
+        "register": "Registro"
+    },
+    "Required": "Obligatorio",
+    "Switch to fill the details manually": "Cambiar para rellenar los datos manualmente",
+    "Used to pre-fill name, description and logo of your organisation": "Sirve para rellenar previamente el nombre, la descripción y el logotipo de su organización",
+    "onboarding": {
+        "done": "Recibirás un mensaje de confirmación por correo electrónico. Ya puede incrustar una versión de prueba del <1>widget en su pàgina web</1>",
+        "embargoHelper": "Reconozco que los materiales de la campaña están estrictamente embargados hasta nuevo aviso. Me comprometo a NO COMPARTIR estos materiales con nadie ajeno a mi organización.",
+        "intro": "Para aumentar nuestro impacto, necesitamos una coalición amplia y tratamos de hacerlo lo más simple posible para que usted se una a ella.",
+        "embargo": "Embargo"
+    },
+    "mineOnly": "únicamente de mi organización",
+    "My organisation isn't on Twitter": "Mi organización no está en Twitter",
+    "My organisation isn't on twitter": "Mi organización no tiene twitter",
+    "Twitter Account": "Cuenta en Twitter",
+    "You can update your organisation's details": "Puede actualizar los datos de su organización",
+    "externalPartner": "solo socios externos",
+    "Customise": "Personalizar",
+    "Fields": "Campos",
+    "Show": "Mostrar",
+    "Used to fill the details of your organisation": "Se utiliza para rellenar los datos de su organización",
+    "View your widget for {{org}}": "Mostrar su widget para {{org}}",
+    "createOrg": {
+        "manual": "Cambiar a rellenar los datos manualmente",
+        "intro": "Lo más rápido es empezar por la cuenta de twitter de tu organización (si tienes varias, elige una)"
+    },
+    "You are registered for {{campaign}}": "Estás registrado en {{campaign}}",
+    "invite": {
+        "message": "Oye, **te necesitamos** para esta campaña, ¿podrías unirte?"
+    },
+    "unusedOnly": "sólo widgets sin usar",
+    "You are also a member of {{org}}": "👋 ¡Eh, para! ¡Eres el empleado de {{org}}, que dirige esta campaña! ¡No puedes unirte a ella como socio!",
+    "You are one of the coordinators of that campaign": "Eres uno de los coordinadores de esa campaña",
+    "You can register an new organisation to join the coalition": "Puede registrar una nueva organización para que se una a la coalición"
+}
