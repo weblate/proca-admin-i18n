@@ -1,1 +1,86 @@
-{}
+{
+    "onboarding": {
+        "user": {
+            "sectionTitle": "Do shonraí teagmhála",
+            "emailAddress": "Do sheoladh ríomhphoist",
+            "jobTitle": "Teideal Poist",
+            "country": "Do Thír",
+            "name": "D'Ainm",
+            "phoneNumber": "D'uimhir theileafóin",
+            "phoneNumberHelper": "Cód tíre san áireamh",
+            "socialAccount": "Do na meáin shóisialta",
+            "socialAccountHelper": "Ar Twitter/Instagram/Linkedin"
+        },
+        "done": "Gheobhaidh tú teachtaireacht deimhnithe trí ríomhphost. Is féidir leat leagan tástála den <1> ghiuirléid a leabú ar do shuíomh Gréasáin</1> cheana féin",
+        "embargo": "lánchosc",
+        "embargoHelper": "Admhaím go bhfuil lánchosc ar ábhair an fheachtais go dtí go bhfógrófar a mhalairt. Aontaím GAN na hábhair seo a roinnt le haon duine lasmuigh de m'eagraíocht.",
+        "login": "Cláraigh mar úsáideoir nó logáil isteach le do dhintiúir meáin shóisialta nó do ríomhphost. Is é do chuntas pearsanta é, beidh tú in ann d’eagraíocht a bhunú tar éis duit clárú.",
+        "intro": "Chun ár dtionchar a mhéadú, tá comhrialtas leathan de dhíth orainn agus rinneamar iarracht é a dhéanamh chomh simplí agus is féidir ligean duit a bheith páirteach ann.",
+        "maillingHelper": "Tríd an bhfoirm seo a chur isteach, aontaím le cur leis an liosta seoltaí {{campaign}}. Is féidir liom díliostáil am ar bith.",
+        "title": "An eagraíocht nó gluaiseacht shóisialta thú atá ag iarraidh an feachtas seo a chur ar do shuíomh?",
+        "mailling": "Liosta postála",
+        "organisation": {
+            "collectsEmail": "Níl nuachtlitir agat agus níl tú ag iarraidh seoltaí ríomhphoist a bhailiú? (Beidh tú in ann an ghné seo a chur i bhfolach ar do shuíomh Gréasáin) Cuir tic sa bhosca seo:",
+            "network": "Tá m'eagraíocht mar chuid den scátheagraíocht...",
+            "networkHelper": "Cuirimid fáilte roimh gach eagraíocht!",
+            "collectsEmailHelper": "Níl nuachtlitir agam. Táim cinnte nach dteastaíonn uaim ticbhosca nuachtlitreach a bhailíonn seoltaí ríomhphoist is féidir linn a úsáid ina dhiaidh sin.",
+            "crm": "Cén bogearraí CRM atá á n-úsáid agat?",
+            "doubleOptIn": "Ní mór do mo lucht tacaíochta rogha a dhéanamh faoi dhó chun nuachtlitir a fháil",
+            "organisationHelper": "Cén chuid den teaghlach as a bhfuil tú? Cuirimid fáilte roimh gach eagraíocht!",
+            "remarks": "Aon tuairimí faoin uirlis is mian leat a insint dúinn?",
+            "sectionTitle": "Eagraíocht"
+        },
+        "verify": "Níl do ríomhphost fíoraithe fós. Seiceáil do ríomhphost agus cliceáil ar an nasc deimhnithe chun leanúint ar aghaidh.",
+        "thanks": "Go raibh maith agat as páirt a ghlacadh san fheachtas seo",
+        "welcome": "Fáilte chuig limistéar na gcomhpháirtithe don fheachtas seo arna chomhordú ag {{coordinator}}",
+        "warning": {
+            "is_partner": "👋 Hey stop! Tá tú i do chomhpháirtí cheana féin san fheachtas seo! Ní dhéanann sé ciall duit a bheith páirteach arís!"
+        }
+    },
+    "My organisation isn't on twitter": "Níl m'eagraíocht ar twitter",
+    "Required": "Ag teastáil",
+    "action": {
+        "mail2target": "Ríomhphost chuig an sprioc",
+        "share": "Roinn ar na meáin shóisialta",
+        "register": "Clár",
+        "twitter_click": "Tweet chun an sprioc"
+    },
+    "Fields": "Réimsí",
+    "View your widget for {{org}}": "Féach ar do ghiuirléid le haghaidh {{org}}",
+    "My organisation isn't on Twitter": "Níl m'eagraíocht ar Twitter",
+    "createOrg": {
+        "manual": "Athraigh chun na sonraí a líonadh de láimh",
+        "intro": "Is é an ceann is tapúla ná tosú le cuntas twitter na heagraíochta (má tá roinnt agat, roghnaigh ceann amháin)"
+    },
+    "Used to pre-fill name, description and logo of your organisation": "Úsáidtear é chun ainm, tuairisc agus lógó d'eagraíochta a réamhlíonadh",
+    "Show": "Taispeáin",
+    "Switch to fill the details manually": "Athraigh chun na sonraí a líonadh de láimh",
+    "You can register an new organisation to join the coalition": "Is féidir leat eagraíocht nua a chlárú chun dul isteach sa chomhrialtas",
+    "Twitter Account": "Cuntas Twitter",
+    "Used to fill the details of your organisation": "Úsáidtear é chun sonraí d’eagraíochta a líonadh",
+    "join": {
+        "goal": "Cé mhéad duine a bhfuil súil agat a dhéanfaidh beart trí do shuíomh Gréasáin?",
+        "requestHelper": "chun cabhrú linn an feachtas seo a phleanáil",
+        "goalHelper": "Ní bheidh ach an buille faoi thuairim seo le feiceáil ag an gcomhordaitheoir… agus tá a fhios againn go bhfuil sé deacair a mheas",
+        "request": "An bhfuil postáil tiomnaithe ar intinn agat chuig do lucht tacaíochta? An bhfuil gníomhaíochtaí meán sóisialta á bpleanáil agat freisin, lena n-áirítear fógraíocht íoctha"
+    },
+    "step": {
+        "configure_org": "D'eagraíocht",
+        "create_org": "Cruthaigh d'eagraíocht",
+        "join_campaign": "Bí ar an bhfeachtas",
+        "done": "Tóg do ghiuirléid",
+        "login": "Do chuntas",
+        "verify": "Fíoraigh do ríomhphost"
+    },
+    "mineOnly": "ó m'eagraíocht amháin",
+    "unusedOnly": "giuirléidí neamhúsáidte amháin",
+    "externalPartner": "comhpháirtithe seachtracha amháin",
+    "Customise": "Saincheap",
+    "You are also a member of {{org}}": "👋 Hey stop! Is tusa foireann {{org}}, a reáchtálann an feachtas seo! Ní féidir leat páirt a ghlacadh ann freisin mar chomhpháirtí!",
+    "You are one of the coordinators of that campaign": "Tá tú ar dhuine de chomhordaitheoirí an fheachtais sin",
+    "You are registered for {{campaign}}": "Tá tú cláraithe le haghaidh {{campaign}}",
+    "You can update your organisation's details": "Féadfaidh tú sonraí d’eagraíochta a nuashonrú",
+    "invite": {
+        "message": "Hey, tá **tú** uait don fheachtas seo, an bhféadfá bheith páirteach?"
+    }
+}
