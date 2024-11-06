@@ -1,67 +1,70 @@
 {
-  "My organisation isn't on twitter": "Moje organizace není na Twitteru",
-  "Switch to fill the details manually": "Přepnutí na ruční vyplnění údajů",
-  "Twitter Account": "Účet Twitter",
-  "Used to fill the details of your organisation": "Slouží k vyplnění údajů o vaší organizaci",
-  "You are one of the coordinators of that campaign": "Jste jedním z koordinátorů této kampaně",
-  "You are registered for {{campaign}}": "Jste registrován pro {{campaign}}",
-  "You are also a member of {{org}}": "👋 Hej, přestaň! Jsi zaměstnanec {{org}}, který vede tuto kampaň! Nemůžeš se k ní připojit ani jako partner!",
-  "You can update your organisation's details": "Můžete aktualizovat údaje o své organizaci",
-  "createOrg": {
-    "intro": "Nejrychlejší je začít s twitterovým účtem vaší organizace (pokud jich máte několik, vyberte si jeden)",
-    "manual": "Přepnutí na ruční vyplnění údajů"
-  },
-  "invite": {
-    "message": "Hej, potřebujeme **vás** pro tuto kampaň, mohli byste se přidat?"
-  },
-  "join": {
-    "request": "Plánujete speciální rozesílku svým příznivcům? Plánujete také aktivity na sociálních sítích, včetně placené reklamy",
-    "requestHelper": "abyste nám pomohli naplánovat tuto kampaň",
-    "goalHelper": "Tento odhad uvidí pouze koordinátor... a my víme, že je těžké ho odhadnout",
-    "goal": "Kolik lidí podle vašeho očekávání provede akci prostřednictvím vašich webových stránek?"
-  },
-  "onboarding": {
-    "login": "Chcete-li začít, musíte se zaregistrovat nebo přihlásit, pokud jste se již zaregistrovali.",
-    "done": "Potvrzení obdržíte e-mailem. Na své webové stránky již můžete vložit testovací verzi <1>widgetu</1>",
-    "intro": "Abychom zvýšili náš dopad, potřebujeme širokou koalici a snažili jsme se, abyste se k ní mohli co nejjednodušeji připojit.",
-    "thanks": "Děkujeme, že jste se připojili k této kampani",
-    "title": "Jste organizace nebo sociální hnutí a chcete tuto kampaň přidat na své stránky?",
-    "verify": "Váš e-mail ještě není ověřen. Zkontrolujte prosím svůj e-mail a pokračujte kliknutím na potvrzovací odkaz.",
-    "embargoHelper": "Beru na vědomí, že na materiály kampaně je až do odvolání uvaleno přísné embargo. Souhlasím s tím, že tyto materiály nebudu SDÍLET nikomu mimo svou organizaci.",
-    "welcome": "Vítejte v partnerské oblasti této kampaně, kterou koordinuje {{coordinator}}",
-    "embargo": "Embargo",
-    "mailling": "Seznam adresátů",
-    "organisation": {
-      "network": "Moje organizace je součástí zastřešující organizace...",
-      "networkHelper": "Vítáme všechny organizace!",
-      "sectionTitle": "Organizace",
-      "collectsEmailHelper": "Nemám newsletter. Jsem si jistý, že nechci zaškrtávací políčko newsletteru, které shromažďuje e-mailové adresy, které můžeme následně použít.",
-      "remarks": "Chcete nám sdělit nějaké připomínky k nástroji?",
-      "collectsEmail": "Nemáte newsletter a nechcete shromažďovat e-mailové adresy? (Tuto funkci budete moci na svých webových stránkách sami skrýt) Zaškrtněte toto políčko:",
-      "organisationHelper": "Z které části rodiny pocházíte? Vítáme všechny organizace!",
-      "crm": "Jaký CRM software používáte?",
-      "doubleOptIn": "Moji příznivci se musí dvakrát přihlásit k odběru novinek"
+    "My organisation isn't on twitter": "Moje organizace není na Twitteru",
+    "Switch to fill the details manually": "Přepnutí na ruční vyplnění údajů",
+    "Twitter Account": "Účet Twitter",
+    "Used to fill the details of your organisation": "Slouží k vyplnění údajů o vaší organizaci",
+    "You are one of the coordinators of that campaign": "Jste jedním z koordinátorů této kampaně",
+    "You are registered for {{campaign}}": "Jste registrován pro {{campaign}}",
+    "You are also a member of {{org}}": "👋 Hej, přestaň! Jsi zaměstnanec {{org}}, který vede tuto kampaň! Nemůžeš se k ní připojit ani jako partner!",
+    "You can update your organisation's details": "Můžete aktualizovat údaje o své organizaci",
+    "createOrg": {
+        "intro": "Nejrychlejší je začít s twitterovým účtem vaší organizace (pokud jich máte několik, vyberte si jeden)",
+        "manual": "Přepnutí na ruční vyplnění údajů"
     },
-    "user": {
-      "emailAddress": "Vaše e-mailová adresa",
-      "sectionTitle": "Kontaktní osoba pro tuto kampaň",
-      "country": "Vaše země",
-      "name": "Vaše jméno",
-      "jobTitle": "Název pracovní pozice",
-      "socialAccount": "Váš Twitter/Facebook/Instagram handler nebo URL",
-      "phoneNumber": "Vaše telefonní číslo (včetně předvolby země)"
+    "invite": {
+        "message": "Hej, potřebujeme **vás** pro tuto kampaň, mohli byste se přidat?"
     },
-    "maillingHelper": "Odesláním tohoto formuláře souhlasím s tím, že budu přidán/a do seznamu adresátů {{campaign}}. Z odběru se mohu kdykoli odhlásit.",
-    "warning": {
-      "is_partner": "👋 Hej, přestaň! Už jsi partnerem této kampaně! Nemá smysl, abyste se znovu připojovali!"
+    "join": {
+        "request": "Plánujete speciální rozesílku svým příznivcům? Plánujete také aktivity na sociálních sítích, včetně placené reklamy",
+        "requestHelper": "abyste nám pomohli naplánovat tuto kampaň",
+        "goalHelper": "Tento odhad uvidí pouze koordinátor... a my víme, že je těžké ho odhadnout",
+        "goal": "Kolik lidí podle vašeho očekávání provede akci prostřednictvím vašich webových stránek?"
+    },
+    "onboarding": {
+        "login": "Chcete-li začít, musíte se zaregistrovat nebo přihlásit, pokud jste se již zaregistrovali.",
+        "done": "Potvrzení obdržíte e-mailem. Na své webové stránky již můžete vložit testovací verzi <1>widgetu</1>",
+        "intro": "Abychom zvýšili náš dopad, potřebujeme širokou koalici a snažili jsme se, abyste se k ní mohli co nejjednodušeji připojit.",
+        "thanks": "Děkujeme, že jste se připojili k této kampani",
+        "title": "Jste organizace nebo sociální hnutí a chcete tuto kampaň přidat na své stránky?",
+        "verify": "Váš e-mail ještě není ověřen. Zkontrolujte prosím svůj e-mail a pokračujte kliknutím na potvrzovací odkaz.",
+        "embargoHelper": "Beru na vědomí, že na materiály kampaně je až do odvolání uvaleno přísné embargo. Souhlasím s tím, že tyto materiály nebudu SDÍLET nikomu mimo svou organizaci.",
+        "welcome": "Vítejte v partnerské oblasti této kampaně, kterou koordinuje {{coordinator}}",
+        "embargo": "Embargo",
+        "mailling": "Seznam adresátů",
+        "organisation": {
+            "network": "Moje organizace je součástí zastřešující organizace...",
+            "networkHelper": "Vítáme všechny organizace!",
+            "sectionTitle": "Organizace",
+            "collectsEmailHelper": "Nemám newsletter. Jsem si jistý, že nechci zaškrtávací políčko newsletteru, které shromažďuje e-mailové adresy, které můžeme následně použít.",
+            "remarks": "Chcete nám sdělit nějaké připomínky k nástroji?",
+            "collectsEmail": "Nemáte newsletter a nechcete shromažďovat e-mailové adresy? (Tuto funkci budete moci na svých webových stránkách sami skrýt) Zaškrtněte toto políčko:",
+            "organisationHelper": "Z které části rodiny pocházíte? Vítáme všechny organizace!",
+            "crm": "Jaký CRM software používáte?",
+            "doubleOptIn": "Moji příznivci se musí dvakrát přihlásit k odběru novinek"
+        },
+        "user": {
+            "emailAddress": "Vaše e-mailová adresa",
+            "sectionTitle": "Kontaktní osoba pro tuto kampaň",
+            "country": "Vaše země",
+            "name": "Vaše jméno",
+            "jobTitle": "Název pracovní pozice",
+            "socialAccount": "Váš Twitter/Facebook/Instagram handler nebo URL",
+            "phoneNumber": "Vaše telefonní číslo (včetně předvolby země)"
+        },
+        "maillingHelper": "Odesláním tohoto formuláře souhlasím s tím, že budu přidán/a do seznamu adresátů {{campaign}}. Z odběru se mohu kdykoli odhlásit.",
+        "warning": {
+            "is_partner": "👋 Hej, přestaň! Už jsi partnerem této kampaně! Nemá smysl, abyste se znovu připojovali!"
+        }
+    },
+    "step": {
+        "create_org": "Vytvořte svou organizaci",
+        "verify": "Ověřte svůj e-mail",
+        "configure_org": "Vaše organizace",
+        "login": "Váš účet",
+        "done": "Převezměte si svůj widget",
+        "join_campaign": "Požádejte o připojení"
+    },
+    "action": {
+        "register": "Registrace"
     }
-  },
-  "step": {
-    "create_org": "Vytvořte svou organizaci",
-    "verify": "Ověřte svůj e-mail",
-    "configure_org": "Vaše organizace",
-    "login": "Váš účet",
-    "done": "Převezměte si svůj widget",
-    "join_campaign": "Požádejte o připojení"
-  }
 }
