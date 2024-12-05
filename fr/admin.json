@@ -1,67 +1,84 @@
 {
-  "Twitter Account": "Compte Twitter",
-  "My organisation isn't on twitter": "Mon organisation n’est pas sur twitter",
-  "onboarding": {
-    "welcome": "Bienvenue dans l'espace partenaires' ; de cette campagne coordonnée par {{coordinator}}.",
-    "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
-    "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible.",
-    "thanks": "Merci de vous joindre à cette campagne",
-    "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez d'ores et déjà intégrer une version de test du <1>widget sur votre site web</1> ;",
-    "warning": {
-      "is_partner": "👋 Hey stop ! Vous êtes déjà un partenaire de cette campagne ! Cela n'a pas de sens pour vous de vous joindre à nouveau !"
+    "Twitter Account": "Compte Twitter",
+    "My organisation isn't on twitter": "Mon organisation n’est pas sur twitter",
+    "onboarding": {
+        "welcome": "Bienvenue dans l'espace partenaires' ; de cette campagne coordonnée par {{coordinator}}.",
+        "title": "Vous êtes une organisation ou un mouvement social et vous souhaitez ajouter cette campagne sur votre site ?",
+        "intro": "Pour accroître notre impact, nous avons besoin d'une large coalition et nous avons essayé de faire en sorte que vous puissiez la rejoindre le plus simplement possible.",
+        "thanks": "Merci de vous joindre à cette campagne",
+        "done": "Vous recevrez un message de confirmation par e-mail. Vous pouvez d'ores et déjà intégrer une version de test du <1>widget sur votre site web</1> ;",
+        "warning": {
+            "is_partner": "👋 Hey stop ! Vous êtes déjà un partenaire de cette campagne ! Cela n'a pas de sens pour vous de vous joindre à nouveau !"
+        },
+        "embargo": "Embargo",
+        "embargoHelper": "Je reconnais que le matériel de la campagne fait l'objet d'un embargo strict jusqu'à nouvel ordre. Je m'engage à NE PAS PARTAGER ce matériel avec quiconque en dehors de mon organisation.",
+        "mailling": "Liste de diffusion",
+        "maillingHelper": "En soumettant ce formulaire, j'accepte d'être ajouté à la liste de diffusion {{campaign}}. Je peux me désinscrire à tout moment.",
+        "organisation": {
+            "network": "Mon organisation fait partie d'une organisation parapluie...",
+            "networkHelper": "Nous accueillons toutes les organisations !",
+            "sectionTitle": "Organisation",
+            "organisationHelper": "De quelle partie de la famille êtes-vous ? Nous accueillons toutes les organisations !",
+            "collectsEmail": "Vous n’avez pas de bulletin d’information et ne souhaitez pas collecter d’adresses électroniques ? (Vous pourrez vous-même masquer cette fonctionnalité sur votre site web) Cochez cette case :",
+            "collectsEmailHelper": "Je n’ai pas de newsletter. Je suis sûr que je ne veux pas d'une case à cocher pour la newsletter qui recueille des adresses électroniques que nous pouvons utiliser par la suite.",
+            "remarks": "Avez-vous des commentaires sur l'outil à nous communiquer ?",
+            "crm": "Quel logiciel de CRM utilisez-vous ?",
+            "doubleOptIn": "Mes supporters doivent s'inscrire pour recevoir la newsletter."
+        },
+        "user": {
+            "sectionTitle": "Personne de contact pour cette campagne",
+            "country": "Votre pays",
+            "name": "Votre nom",
+            "jobTitle": "Titre du poste",
+            "emailAddress": "Votre adresse électronique",
+            "socialAccount": "Vos poignées ou URL Twitter/Facebook/Instagram",
+            "phoneNumber": "Votre numéro de téléphone (y compris l'indicatif du pays)"
+        },
+        "verify": "Votre adresse électronique n'est pas encore vérifiée. Veuillez vérifier votre e-mail et cliquer sur le lien de confirmation pour continuer.",
+        "login": "Enregistrez-vous en tant qu'utilisateur ou connectez-vous à l'aide de vos identifiants de réseaux sociaux ou de votre adresse email. Il s'agit de votre compte personnel, vous pourrez configurer votre organisation après votre inscription."
     },
-    "embargo": "Embargo",
-    "embargoHelper": "Je reconnais que le matériel de la campagne fait l'objet d'un embargo strict jusqu'à nouvel ordre. Je m'engage à NE PAS PARTAGER ce matériel avec quiconque en dehors de mon organisation.",
-    "mailling": "Liste de diffusion",
-    "maillingHelper": "En soumettant ce formulaire, j'accepte d'être ajouté à la liste de diffusion {{campaign}}. Je peux me désinscrire à tout moment.",
-    "organisation": {
-      "network": "Mon organisation fait partie d'une organisation parapluie...",
-      "networkHelper": "Nous accueillons toutes les organisations !",
-      "sectionTitle": "Organisation",
-      "organisationHelper": "De quelle partie de la famille êtes-vous ? Nous accueillons toutes les organisations !",
-      "collectsEmail": "Vous n’avez pas de bulletin d’information et ne souhaitez pas collecter d’adresses électroniques ? (Vous pourrez vous-même masquer cette fonctionnalité sur votre site web) Cochez cette case :",
-      "collectsEmailHelper": "Je n’ai pas de newsletter. Je suis sûr que je ne veux pas d'une case à cocher pour la newsletter qui recueille des adresses électroniques que nous pouvons utiliser par la suite.",
-      "remarks": "Avez-vous des commentaires sur l'outil à nous communiquer ?",
-      "crm": "Quel logiciel de CRM utilisez-vous ?",
-      "doubleOptIn": "Mes supporters doivent s'inscrire pour recevoir la newsletter."
+    "createOrg": {
+        "manual": "Commencez à remplir les détails manuellement",
+        "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
     },
-    "user": {
-      "sectionTitle": "Personne de contact pour cette campagne",
-      "country": "Votre pays",
-      "name": "Votre nom",
-      "jobTitle": "Titre du poste",
-      "emailAddress": "Votre adresse électronique",
-      "socialAccount": "Vos poignées ou URL Twitter/Facebook/Instagram",
-      "phoneNumber": "Votre numéro de téléphone (y compris l'indicatif du pays)"
+    "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation.",
+    "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}.",
+    "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
+    "You are also a member of {{org}}": "👋 Hey stop ! Vous êtes le collaborateur de {{org}}, qui mène cette campagne ! Vous ne pouvez pas la rejoindre en tant que partenaire !",
+    "step": {
+        "join_campaign": "Demande d'adhésion",
+        "done": "Prenez votre widget",
+        "create_org": "Créez votre organisation",
+        "configure_org": "Votre organisation",
+        "login": "Votre compte",
+        "verify": "Vérifiez votre e-mail"
     },
-    "verify": "Votre adresse électronique n'est pas encore vérifiée. Veuillez vérifier votre e-mail et cliquer sur le lien de confirmation pour continuer.",
-    "login": "Pour commencer, vous devez vous inscrire ou vous connecter, si vous êtes déjà inscrit."
-  },
-  "createOrg": {
-    "manual": "Commencez à remplir les détails manuellement",
-    "intro": "Le plus rapide est de commencer par le compte Twitter de votre organisation (si vous en avez plusieurs, choisissez-en un)."
-  },
-  "You can update your organisation's details": "Vous pouvez mettre à jour les coordonnées de votre organisation.",
-  "You are registered for {{campaign}}": "Vous êtes inscrit à {{campaign}}.",
-  "You are one of the coordinators of that campaign": "Vous êtes l'un des coordinateurs de cette campagne.",
-  "You are also a member of {{org}}": "👋 Hey stop ! Vous êtes le collaborateur de {{org}}, qui mène cette campagne ! Vous ne pouvez pas la rejoindre en tant que partenaire !",
-  "step": {
-    "join_campaign": "Demande d'adhésion",
-    "done": "Prenez votre widget",
-    "create_org": "Créez votre organisation",
-    "configure_org": "Votre organisation",
-    "login": "Votre compte",
-    "verify": "Vérifiez votre e-mail"
-  },
-  "join": {
-    "requestHelper": "pour nous aider aider à organiser cette campagne",
-    "request": "Prévoyez-vous un mailing dédié à vos supporters ? Prévoyez-vous également des activités dans les médias sociaux, y compris des publicités payantes ?",
-    "goalHelper": "Cette estimation ne sera vue que par le coordinateur... et nous savons qu’elle est difficile à estimer.",
-    "goal": "Combien de personnes pensez-vous que votre site Web va susciter des actions ?"
-  },
-  "Used to fill the details of your organisation": "Utilisé pour remplir les détails de votre organisation",
-  "Switch to fill the details manually": "Commencez à remplir les détails manuellement",
-  "invite": {
-    "message": "Hé, nous avons besoin de **vous** pour cette campagne, pourriez-vous nous rejoindre ?"
-  }
+    "join": {
+        "requestHelper": "pour nous aider aider à organiser cette campagne",
+        "request": "Prévoyez-vous un mailing dédié à vos supporters ? Prévoyez-vous également des activités dans les médias sociaux, y compris des publicités payantes ?",
+        "goalHelper": "Cette estimation ne sera vue que par le coordinateur... et nous savons qu’elle est difficile à estimer.",
+        "goal": "Combien de personnes pensez-vous que votre site Web va susciter des actions ?"
+    },
+    "Used to fill the details of your organisation": "Utilisé pour remplir les détails de votre organisation",
+    "Switch to fill the details manually": "Commencez à remplir les détails manuellement",
+    "invite": {
+        "message": "Hé, nous avons besoin de **vous** pour cette campagne, pourriez-vous nous rejoindre ?"
+    },
+    "action": {
+        "share": "Partager sur les réseaux sociaux",
+        "mail2target": "Courrier adressé au destinataire",
+        "register": "S'inscrire",
+        "twitter_click": "Tweet à cibler"
+    },
+    "externalPartner": "uniquement les partenaires externes",
+    "Fields": "Champs",
+    "My organisation isn't on Twitter": "Mon organisation n'est pas sur Twitter",
+    "Show": "Afficher",
+    "You can register an new organisation to join the coalition": "Vous pouvez inscrire une nouvelle organisation pour rejoindre la coalition",
+    "Customise": "Personnaliser",
+    "View your widget for {{org}}": "Voir votre widget pour {{org}}",
+    "Required": "Requis",
+    "mineOnly": "uniquement de mon organisation",
+    "Used to pre-fill name, description and logo of your organisation": "Utilisé pour pré-remplir le nom, la description et le logo de votre organisation",
+    "unusedOnly": "uniquement les widgets inutilisés"
 }
