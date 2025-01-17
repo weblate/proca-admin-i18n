@@ -1,1 +1,10 @@
-{}
+{
+    "unusedOnly": "vain käyttämättömät vimpaimet",
+    "View your widget for {{org}}": "Näytä vimpaimesi {{org}}:lle",
+    "step": {
+        "done": "Ota vimpaimesi"
+    },
+    "onboarding": {
+        "done": "Saat vahvistusviestin sähköpostitse. Voit jo upottaa testiversion <1>vimpaimesta verkkosivustollesi</1>"
+    }
+}
